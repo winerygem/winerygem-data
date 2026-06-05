@@ -1,0 +1,4558 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-06-05T00:00:00Z",
+  "wineriesCount": 61,
+  "wineries": [
+    {
+      "id": "stonetower",
+      "name": "Stone Tower Winery",
+      "region": "Loudoun County",
+      "address": "19925 Hogback Mountain Rd, Leesburg, VA 20175",
+      "latitude": 39.0698,
+      "longitude": -77.6253,
+      "phone": "+1-703-777-2797",
+      "website": "https://stonetowerwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Hilltop estate with panoramic Blue Ridge views and a serious wine program.",
+      "editorial": "Stone Tower sits on Hogback Mountain at the western edge of Loudoun. Two sides to the property: the polished Tower View Tasting Room (21+ club) and the casual, all-ages Harvest Barn. Both share the view that justifies the drive.",
+      "attributes": [
+        "foodOnsite",
+        "dogFriendly",
+        "liveMusic",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food NOT permitted — both tasting rooms have food menus",
+        "Dogs welcome inside and outside at Harvest Barn (Gate #1); family-friendly, walk-in",
+        "Harvest Barn: first-come first-served, no reservations; other tasting rooms via Tock",
+        "Max 2.5-hour visit per party in public spaces",
+        "Closed Tuesday and Wednesday"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "bluemont",
+      "name": "Bluemont Vineyard",
+      "region": "Loudoun County",
+      "address": "18755 Foggy Bottom Rd, Bluemont, VA 20135",
+      "latitude": 39.1056,
+      "longitude": -77.7853,
+      "phone": "+1-540-554-8439",
+      "website": "https://bluemontvineyard.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "951 feet up — arguably the best view in Virginia wine country.",
+      "editorial": "Bluemont's elevation is its whole pitch and it delivers. The patio looks east over the Loudoun Valley toward DC on a clear day. Bring a sweater in any season; the wind up here has opinions.",
+      "attributes": [
+        "greatView",
+        "foodOnsite",
+        "dogFriendly",
+        "liveMusic",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food and beverage explicitly prohibited — Virginia ABC regulations cited",
+        "No outside alcohol",
+        "Dogs welcome: inside tasting room + panoramic terrace; leashed required",
+        "Food available on site: boards, flatbread, brunch weekends",
+        "Live music Saturdays ~3:30–6:30 PM (Sunset Saturdays); occasional Friday member events",
+        "Credit card required for reservations; $10/person no-show fee",
+        "Family-friendly including dogs ('four-legged friends')"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "breaux",
+      "name": "Breaux Vineyards",
+      "region": "Loudoun County",
+      "address": "36888 Breaux Vineyards Ln, Purcellville, VA 20132",
+      "latitude": 39.1922,
+      "longitude": -77.7642,
+      "phone": "+1-540-668-6299",
+      "website": "https://breauxvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Sprawling Cajun-influenced estate, the most-awarded vineyard in Virginia.",
+      "editorial": "Breaux is big — over 100 acres planted — and the experience matches the scale. Stretch out on the lawn, order the muffuletta from the kitchen, and work through the Nebbiolo or the Viognier.",
+      "attributes": [
+        "foodOnsite",
+        "bringYourOwnFood",
+        "dogFriendly",
+        "liveMusic",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed outdoors (EXCEPT Orleans Patio); also inside Vin 97 tasting room",
+        "Outside food permitted outdoors only; NOT inside tasting room",
+        "Groups 8+ must use picnic grounds, not patio",
+        "No outside alcohol of any kind — Breaux wine only",
+        "Kitchen open daily 11 AM–5 PM; gourmet light fare and freshly baked bread",
+        "Guided tastings require reservation; only 2 per day accepted"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "rdv",
+      "name": "RdV Vineyards",
+      "region": "Fauquier County",
+      "address": "2550 Delaplane Grade Rd, Delaplane, VA 20144",
+      "latitude": 38.9342,
+      "longitude": -77.9367,
+      "phone": "+1-540-364-0221",
+      "website": "https://rdvvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Appointment-only Bordeaux-style cellar, widely regarded as Virginia's best producer.",
+      "editorial": "RdV is a proper appointment — you book a 90-minute tour, you taste through the Lost Mountain and Rendezvous (and a complimentary glass of Dom Perignon), you leave understanding why people compare Virginia to Bordeaux on its best days.",
+      "attributes": [
+        "reservationRequired",
+        "greatView",
+        "adultsOnly",
+        "foodOnsite"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "By appointment ONLY — no walk-ins; maximum 4 per party",
+        "Tours Thu–Sun at 11 AM, 1 PM, and 3 PM",
+        "Tasting includes food pairings by local Virginia artisans",
+        "Hillside vineyard with Blue Ridge views",
+        "Bordeaux-style blends; small boutique production"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "barboursville",
+      "name": "Barboursville Vineyards",
+      "region": "Monticello AVA",
+      "address": "17655 Winery Rd, Barboursville, VA 22923",
+      "latitude": 38.1453,
+      "longitude": -78.2778,
+      "phone": "+1-540-832-3824",
+      "website": "https://bbvwine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Italian-owned estate surrounding Jefferson-designed ruins. Iconic.",
+      "editorial": "The Zonin family bought this property in 1976 and have been making serious Bordeaux and Italian varietals here ever since. Walk the ruins of Governor Barbour's Jefferson-designed mansion, eat at Palladio restaurant, taste through the Octagon.",
+      "attributes": [
+        "foodOnsite",
+        "dogFriendly",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "No outside food in tasting room — seasonal charcuterie/cheese available on site",
+        "Dogs leashed in main tasting room ONLY — NOT in Library tasting room or inside buildings generally",
+        "Palladio Restaurant on site: fine dining; lunch Wed–Sun, dinner Fri–Sat (reservation required)",
+        "Library 1821 tastings: reservations recommended",
+        "Historic estate: ruins of 1814 Barboursville Mansion on grounds"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": true,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "kingfamily",
+      "name": "King Family Vineyards",
+      "region": "Monticello AVA",
+      "address": "6550 Roseland Farm, Crozet, VA 22932",
+      "latitude": 38.0667,
+      "longitude": -78.7194,
+      "phone": "+1-434-823-7800",
+      "website": "https://kingfamilyvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Polo matches Sunday afternoons, world-class Meritage all year.",
+      "editorial": "King Family hits every note of the modern Virginia winery: serious wine program (the Meritage is the flagship), gorgeous outdoor lawn, food trucks on weekends, and Sunday polo matches in season.",
+      "attributes": [
+        "bringYourOwnFood",
+        "foodOnsite",
+        "dogFriendly",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "20:30"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:30"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO food welcome; no outside alcohol",
+        "Dogs welcome leashed outdoors",
+        "Shop: local cheeses, charcuterie, baguettes, crackers, preserves, nuts",
+        "Polo Sundays: Memorial Day weekend through mid-October (weather/field permitting)"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "veritas",
+      "name": "Veritas Vineyard & Winery",
+      "region": "Nelson County",
+      "address": "151 Veritas Ln, Afton, VA 22920",
+      "latitude": 37.9569,
+      "longitude": -78.8231,
+      "phone": "+1-540-456-8000",
+      "website": "https://veritaswines.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Blue Ridge backdrop and a full kitchen for sit-down lunch with the wine.",
+      "editorial": "Veritas is dialed in — the wines are good, the views are great, and the Terrace serves real lunch (sandwiches, salads, charcuterie) until 4:30pm. The Farmhouse next door is a B&B if you want to make it a weekend.",
+      "attributes": [
+        "bringYourOwnFood",
+        "foodOnsite",
+        "greatView",
+        "dogFriendly",
+        "familyFriendly",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO picnic permitted in Bricks outdoor area; order wine at bar",
+        "Dogs welcome leashed on lawn and veranda; NOT inside tasting room",
+        "Food menu on site: shareable items indoors and outdoors",
+        "Live music: Starry Nights Summer Music Series + special events throughout year"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "earlymountain",
+      "name": "Early Mountain Vineyards",
+      "region": "Monticello AVA",
+      "address": "6109 Wolftown-Hood Rd, Madison, VA 22727",
+      "latitude": 38.4356,
+      "longitude": -78.3658,
+      "phone": "+1-540-948-9005",
+      "website": "https://earlymountain.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Steve Case's flagship — sophisticated wood-fired food, focused tastings.",
+      "editorial": "Early Mountain is the most thoughtfully designed tasting room in Virginia. The food matches the wine, the seasonal Meadow is enormous, and the tasting flights are well-curated for someone trying to understand Virginia for the first time.",
+      "attributes": [
+        "foodOnsite",
+        "dogFriendly",
+        "reservationRequired",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:30"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food NOT permitted — licensed as a restaurant",
+        "No outside alcohol",
+        "Dogs welcome leashed outdoors; water bowls and treats provided",
+        "Thu–Mon only; closed Tue–Wed; weekend hours vary for private events",
+        "Subtly kid-friendly — families welcome"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": true,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "pearmund",
+      "name": "Pearmund Cellars",
+      "region": "Fauquier County",
+      "address": "6190 Georgetown Rd, Broad Run, VA 20137",
+      "latitude": 38.7642,
+      "longitude": -77.7228,
+      "phone": "+1-540-347-3475",
+      "website": "https://pearmundcellars.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "One of Virginia's oldest Chardonnay vineyards, walk-in friendly.",
+      "editorial": "Pearmund is unfussy. The vineyard's older Chardonnay vines produce one of the best whites in the state. The main winery is adults-only; families head to the Pearmund Farmstore next door.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "adultsOnly"
+      ],
+      "priceTier": "$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome on leash outdoors; cleanup required",
+        "Food platters available: meats, cheeses, nuts, dips, chocolates",
+        "Daily 10 AM–6 PM; Fridays until 8 PM",
+        "Main winery is 21+ only; Farmstore location is family-friendly"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "greenhill",
+      "name": "Greenhill Winery & Vineyards",
+      "region": "Loudoun County",
+      "address": "23595 Winery Ln, Middleburg, VA 20117",
+      "latitude": 38.9692,
+      "longitude": -77.7619,
+      "phone": "+1-540-687-6968",
+      "website": "https://experiencegreenhill.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Middleburg estate. Adults-only, sparkling-strong, all-day Mezze menu.",
+      "editorial": "Greenhill is the rare Virginia winery that pulls off elegant without being stuffy. The Blanc de Blancs is the bottle to know. The Mezze menu (cheeses, charcuterie, caviar) plays nicely with whatever you're drinking. Strict 21+ throughout — leave the kids and infants at home.",
+      "attributes": [
+        "bringYourOwnFood",
+        "foodOnsite",
+        "dogFriendly",
+        "adultsOnly",
+        "greatView"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ ONLY",
+        "Dogs welcome in outdoor areas; leash required",
+        "No outside food inside tasting room (outdoor BYO policy not explicitly stated — verify)",
+        "On-site Mezze Menu: cheeses, charcuterie, bread, caviar; self-serve accoutrement bar",
+        "Groups 10+ require advance reservation"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "chrysalis",
+      "name": "Chrysalis Vineyards",
+      "region": "Loudoun County",
+      "address": "39025 John Mosby Hwy, Middleburg, VA 20117",
+      "latitude": 38.9492,
+      "longitude": -77.7989,
+      "phone": "+1-540-687-8222",
+      "website": "https://chrysaliswine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Norton specialists — America's native grape, taken seriously.",
+      "editorial": "Chrysalis planted the largest Norton vineyard in the world here. If you've never tried Virginia's native grape, this is the place to start. The onsite Little River Bakehouse serves pizza, paninis, and salads alongside the wine.",
+      "attributes": [
+        "foodOnsite",
+        "dogFriendly",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food and beverages NOT permitted",
+        "Dogs leashed in outdoor areas ONLY — commercial kitchen and cheese creamery require VDACS animal exclusion indoors",
+        "Food on site: pizza (Little River Bakehouse), Locksley Farmstead artisan cheese, crackers, dips, spreads",
+        "Last food/beverage call 30 min before close",
+        "Closed New Year's Day, Thanksgiving, Christmas; 5 PM close Dec 24 and 31"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "ingleside",
+      "name": "Ingleside Vineyards",
+      "region": "Northern Neck",
+      "address": "5872 Leedstown Rd, Oak Grove, VA 22443",
+      "latitude": 38.1697,
+      "longitude": -76.9344,
+      "phone": "+1-804-224-8687",
+      "website": "https://inglesidevineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Tidewater estate, fourth-generation family, picnic-perfect courtyard.",
+      "editorial": "Ingleside is a drive from DC but worth the day. The Tidewater terroir produces wines unlike anywhere else in Virginia. The European-style courtyard with the fountain is the picnic spot of the trip.",
+      "attributes": [
+        "bringYourOwnFood",
+        "dogFriendly",
+        "liveMusic",
+        "foodOnsite"
+      ],
+      "priceTier": "$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Pets welcome in European-style courtyard",
+        "BYO picnic welcome in courtyard",
+        "Gourmet cheeses and sausages available for purchase",
+        "Summer Music Series: live music on patio during summer"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "scribe",
+      "name": "Scribe Winery",
+      "region": "Sonoma County",
+      "address": "2100 Denmark St, Sonoma, CA 95476",
+      "latitude": 38.2885,
+      "longitude": -122.4203,
+      "phone": "+1-707-939-1858",
+      "website": "https://scribewinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Mission Revival hacienda on a Sonoma hilltop — long lunches and slow afternoons.",
+      "editorial": "Scribe is the Sonoma winery that turned 'family-style lunch with the wine' into a national story. Reservations far in advance. Bring people you want to spend three hours with.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "reservationRequired",
+        "dogFriendly",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Estate visits require Scribe Viticultural Society (SVS) membership; membership currently open",
+        "Dogs welcome in outdoor areas",
+        "Book via Tock (members) or reservation form (Knoll Picnic)",
+        "Families with young children welcomed by staff"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "ridge-lytton",
+      "name": "Ridge Vineyards — Lytton Springs",
+      "region": "Sonoma County",
+      "address": "650 Lytton Springs Rd, Healdsburg, CA 95448",
+      "latitude": 38.6655,
+      "longitude": -122.8767,
+      "phone": "+1-707-433-7721",
+      "website": "https://ridgewine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Old-vine Zinfandel specialists. The honest tasting room in Healdsburg.",
+      "editorial": "Ridge is what serious wine people send their friends to in Sonoma. The Geyserville and Lytton Springs blends are the bottles to know. Patio with vineyard views, no pretension.",
+      "attributes": [
+        "greatView",
+        "reservationRequired",
+        "dogFriendly",
+        "adultsOnly",
+        "foodOnsite"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ only; no children or infants",
+        "Reservations recommended; by appointment",
+        "Dogs welcome leashed; no barking or aggression",
+        "Salumi board add-on available ($50)"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "wagner",
+      "name": "Wagner Vineyards",
+      "region": "Finger Lakes",
+      "address": "9322 NY-414, Lodi, NY 14860",
+      "latitude": 42.5681,
+      "longitude": -76.8472,
+      "phone": "+1-866-924-6378",
+      "website": "https://wagnervineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Seneca Lake estate with a brewery, a bistro, and a serious Riesling lineup.",
+      "editorial": "Wagner is the Finger Lakes anchor — winery, brewery, and bistro on one property on the east shore of Seneca Lake. Try the Riesling lineup straight through.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "familyFriendly",
+        "liveMusic",
+        "dogFriendly"
+      ],
+      "priceTier": "$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed on lawn, Vantage Point deck, and Ginny Lee Cafe deck section",
+        "During Summer Music Series (Fri evenings), dogs restricted to lawn only",
+        "Dogs NOT permitted inside due to Food Modernization Act regulations",
+        "Ginny Lee Cafe on site — full restaurant",
+        "Summer Live Music Series: Friday evenings, Memorial Day through Labor Day at 5 PM"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "domaine-serene",
+      "name": "Domaine Serene",
+      "region": "Willamette Valley",
+      "address": "6555 NE Hilltop Ln, Dayton, OR 97114",
+      "latitude": 45.2483,
+      "longitude": -123.1006,
+      "phone": "+1-503-864-4600",
+      "website": "https://domaineserene.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Dundee Hills Pinot Noir flagship — hilltop estate, focused tastings.",
+      "editorial": "Domaine Serene is the Pinot Noir address in the Willamette Valley. The Clubhouse sits at the top of the Dundee Hills with views across the valley to Mount Hood on a clear day.",
+      "attributes": [
+        "greatView",
+        "reservationRequired",
+        "foodOnsite",
+        "dogFriendly",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food and beverages NOT permitted onsite",
+        "Dogs welcome leashed on patio",
+        "Food on site: bread, oysters, charcuterie, cheese, chips, sliders",
+        "Guests under 21 must be with adult; high chairs/boosters/coloring provided",
+        "Reservations strongly encouraged via Tock; 24-hr cancellation policy ($25/person late; $50/person no-show)"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "linden-vineyards",
+      "name": "Linden Vineyards",
+      "region": "Fauquier County",
+      "address": "3708 Harrels Corner Road, Linden, VA 22642",
+      "latitude": 38.8805,
+      "longitude": -78.0654,
+      "phone": "(540) 364-1997",
+      "website": "https://www.lindenvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A quiet, terroir-obsessed mountainside winery for serious wine drinkers who want to think and not perform.",
+      "editorial": "Linden is the rare Virginia winery that treats tasting as an intellectual exercise — vintages and vineyard sites compared side by side, with founder Jim Law's fingerprints on every pour. The view is gorgeous, but the policies (no kids, no pets, no groups over four) make it clear this is a place to slow down rather than party. Bring your own picnic to enjoy on the deck after you taste, and you'll see why the wine cognoscenti consider this the soul of Virginia wine.",
+      "attributes": [
+        "foodOnsite",
+        "bringYourOwnFood",
+        "greatView",
+        "adultsOnly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Adults only (21+) — no guests under 21 including infants",
+        "Pets NOT permitted",
+        "Open Friday–Sunday only; closed Monday–Thursday",
+        "Maximum 4 people per reservation; no combining reservations",
+        "Outside food permitted after tasting (indoor/outdoor distinction not specified on site)",
+        "Small bites provided with wine",
+        "Tastings focus on terroir, vintage, and vineyard site comparison — educational format"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "glen-manor-vineyards",
+      "name": "Glen Manor Vineyards",
+      "region": "Shenandoah Valley",
+      "address": "2244 Browntown Road, Front Royal, VA 22630",
+      "latitude": 38.854,
+      "longitude": -78.2236,
+      "phone": "(540) 635-6324",
+      "website": "https://glenmanorvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A working Blue Ridge mountainside vineyard with serious Bordeaux-style reds and one of the best views in Virginia.",
+      "editorial": "Tucked against Shenandoah National Park, Glen Manor is a small family operation where Jeff White grows everything he bottles on punishing mountain slopes — and the wines (especially the Hodder Hill blend) prove it. You don't get food here, so pack a real picnic; leashed dogs are welcome outside, kids are fine, and the view down the valley is the kind that makes you forget you have a 4pm reservation somewhere else. Walk-ins are accommodated for parties of four or fewer; anything bigger needs to call ahead.",
+      "attributes": [
+        "dogFriendly",
+        "bringYourOwnFood",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO picnic encouraged — no food or utensils provided on site; pack out what you pack in",
+        "Only Glen Manor wine on property; no outside alcohol",
+        "Dogs welcome leashed in outdoor seating area",
+        "Max party of 6 — no exceptions",
+        "Vineyard tours by reservation: Fri–Sun 11 AM, $60/person, book 2+ weeks ahead"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "the-winery-at-la-grange",
+      "name": "The Winery at La Grange",
+      "region": "Loudoun County",
+      "address": "4970 Antioch Road, Haymarket, VA 20169",
+      "latitude": 38.824,
+      "longitude": -77.645,
+      "phone": "(703) 753-9360",
+      "website": "https://wineryatlagrange.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "An 18th-century manor-house winery just outside DC where weekend afternoons mean live music, picnics, and Virginia reds.",
+      "editorial": "La Grange has a restored stone manor at its center, picnic tables on the lawn, and weekend live music that turns it into the closest thing to a true wine-country day trip from the DC suburbs. They sell cheese, hummus, baguettes, and spreads to enhance your visit, but they also actively welcome you to bring your own picnic — a real rarity. Dogs on leashes are good outside; service dogs only inside the manor.",
+      "attributes": [
+        "liveMusic",
+        "dogFriendly",
+        "bringYourOwnFood",
+        "foodOnsite",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO food welcome in outdoor areas",
+        "No outside alcohol — Virginia law",
+        "Dogs welcome leashed outdoors; NOT inside historic manor house (service dogs only inside)",
+        "On-site: artisan cheeses, gourmet meats, bread, crackers — individually packaged",
+        "Closed Thanksgiving and Christmas"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "boxwood-estate-winery",
+      "name": "Boxwood Estate Winery",
+      "region": "Loudoun County",
+      "address": "2042 Burrland Lane, Middleburg, VA 20117",
+      "latitude": 38.9676,
+      "longitude": -77.7361,
+      "phone": "(540) 687-8778",
+      "website": "https://boxwoodwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A polished, French-inspired estate where Middleburg horse country meets Bordeaux-style blends served from a chic stone courtyard.",
+      "editorial": "Boxwood is 100% estate, hyper-focused on Bordeaux varieties, and the experience matches — a beautiful tasting room, a Chai (French cellar), and a courtyard with fire tables under a giant river birch. It's strictly 21+, no pets, no outside food beyond a birthday cake, which keeps the vibe more wine-bar-in-the-vineyard than picnic-blanket-Saturday. Reserve a table for weekends; walk-ins are welcome but the space is intimate.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "adultsOnly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ ONLY — entire facility",
+        "Pets NOT permitted anywhere on property",
+        "Outside food prohibited (exception: birthday cakes/cupcakes only)",
+        "No outside alcohol",
+        "Food available on site: cheese boards, charcuterie, hummus, sandwiches",
+        "Card only — no cash accepted",
+        "Smoke-free inside; designated smoking area in parking lot",
+        "Reservations encouraged; groups 6+ book Group Tasting Experience"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "michael-shaps-wineworks",
+      "name": "Michael Shaps Wineworks",
+      "region": "Monticello AVA",
+      "address": "1650 Harris Creek Road, Charlottesville, VA 22902",
+      "latitude": 37.9683,
+      "longitude": -78.4625,
+      "phone": "(434) 296-3438",
+      "website": "https://www.virginiawineworks.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A no-nonsense Charlottesville winery from a Burgundy-trained vet pouring both his Virginia wines and imported Maison Shaps Burgundies.",
+      "editorial": "Michael Shaps is the closest you'll get in Virginia to a proper Burgundy domaine — he literally makes wine in both places. The tasting room is relaxed and dog-friendly, with a big deck, stone patio, and front lawn where picnicking is encouraged; cheese and baguettes are sold inside if you didn't bring your own. Open daily, walk-ins welcome, and a quieter alternative to the busier C'ville-area names.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO food permitted outdoors — picnicking on lawn/patio encouraged",
+        "Dogs welcome leashed outdoors; must clean up",
+        "Cheese and charcuterie plates available; food trucks on select days",
+        "Walk-ins welcome — no reservations required"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "iron-horse-vineyards",
+      "name": "Iron Horse Vineyards",
+      "region": "Sonoma County",
+      "address": "9786 Ross Station Road, Sebastopol, CA 95472",
+      "latitude": 38.4778,
+      "longitude": -122.8919,
+      "phone": "(707) 887-1507",
+      "website": "https://ironhorsevineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "The sparkling-wine icon of Sonoma — outdoor tastings at the end of a long winding road with views that almost outshine the bubbles.",
+      "editorial": "Iron Horse has been pouring sparkling wine at the White House since 1985, and the tasting room — really, a glorified outdoor pavilion with a vintage redwood barn behind it — sits at the top of Green Valley with maybe the best view in Sonoma. Book ahead (especially weekends), bring a picnic if you reserve the picnic area, and plan on spending two hours over a glass of Russian Cuvée. Kids are allowed; dogs are not.",
+      "attributes": [
+        "bringYourOwnFood",
+        "reservationRequired",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Reservations required; book 2+ weeks ahead for weekends",
+        "No pets — service animals with documentation only (emotional support animals excluded)",
+        "BYO food welcome with 2-bottle minimum purchase; 2-hour table limit",
+        "Table reservation fee: $50 Fri–Sat, $25 Mon–Thu",
+        "Max 6 guests per party"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "three-sticks-wines",
+      "name": "Three Sticks Wines",
+      "region": "Sonoma County",
+      "address": "143 W Spain Street, Sonoma, CA 95476",
+      "latitude": 38.294,
+      "longitude": -122.4583,
+      "phone": "(707) 996-3328",
+      "website": "https://threestickswines.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "An 1842 adobe right off Sonoma's town square, restored by Ken Fulk, serving cult Pinot and Chardonnay in pure historical-glam style.",
+      "editorial": "Three Sticks tastes you inside the Vallejo-Castañada Adobe — a sumptuously restored 1842 building one block from Sonoma's plaza. The design is theatrical (Ken Fulk did it), the wines are serious Sonoma Pinot and Chardonnay from estate vineyards like Durell and Gap's Crown, and the experience is decidedly grown-up: no kids, no dogs, max six guests per party. Book ahead — there are no walk-ins.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "adultsOnly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "By appointment only",
+        "21+ strictly — no guests under 21, no infants, no dogs",
+        "Adobe historic property: refined tranquility focus"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "macrostie-winery--vineyar",
+      "name": "MacRostie Winery & Vineyards",
+      "region": "Sonoma County",
+      "address": "4605 Westside Road, Healdsburg, CA 95448",
+      "latitude": 38.5546,
+      "longitude": -122.8728,
+      "phone": "(707) 473-9303",
+      "website": "https://macrostiewinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A glass-walled Estate House on Westside Road delivering panoramic Russian River Valley views and elegant Pinot and Chardonnay.",
+      "editorial": "MacRostie's Estate House is a modern glass pavilion that looks straight down the Russian River Valley, with terraces wrapping the building so every seat has a view. The wines (single-vineyard Pinot and Chardonnay) are top-tier, but it's the hospitality — leashed dogs welcome on the patio, live music on 'Serene Sundays,' caviar add-ons if you want to push the boat out — that puts it on every Healdsburg shortlist. Book on Tock; walk-ins aren't really a thing.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "liveMusic",
+        "reservationRequired",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "No outside food — curated food pairings provided on site",
+        "Dogs welcome leashed outdoors; NOT inside",
+        "Live music: Serene Sundays (percussion) + Sunset Series select Fridays",
+        "Reservations required via Tock; max 6 per party",
+        "Groups 7–40: Mon–Fri with advance coordination"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "gary-farrell-vineyards--w",
+      "name": "Gary Farrell Vineyards & Winery",
+      "region": "Sonoma County",
+      "address": "10701 Westside Road, Healdsburg, CA 95448",
+      "latitude": 38.5189,
+      "longitude": -122.9303,
+      "phone": "(707) 473-2909",
+      "website": "https://www.garyfarrellwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A hilltop temple to Russian River Pinot and Chardonnay with forested treetop views and serious, seated tastings.",
+      "editorial": "Gary Farrell perches on a wooded ridge above Westside Road, and the tasting rooms — multiple intimate patios under the trees — feel more like a private home than a winery. The focus is laser-tight on single-vineyard Pinot Noir and Chardonnay, and the experience matches: seated, guided, 21+, no pets, by reservation only. It's not a casual stop, but if you care about Russian River Valley wine, it's essential.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "greatView",
+        "adultsOnly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:30",
+          "close": "16:30"
+        },
+        {
+          "weekday": 2,
+          "open": "10:30",
+          "close": "16:30"
+        },
+        {
+          "weekday": 3,
+          "open": "10:30",
+          "close": "16:30"
+        },
+        {
+          "weekday": 4,
+          "open": "10:30",
+          "close": "16:30"
+        },
+        {
+          "weekday": 5,
+          "open": "10:30",
+          "close": "16:30"
+        },
+        {
+          "weekday": 6,
+          "open": "10:30",
+          "close": "16:30"
+        },
+        {
+          "weekday": 7,
+          "open": "10:30",
+          "close": "16:30"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "By appointment only",
+        "21+ only including infants — no exceptions",
+        "Pets NOT permitted",
+        "No outside picnics (exception: Vinyl Vibe annual event explicitly invites BYO picnic)",
+        "Light snacks included with select tastings"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "frog-s-leap-winery",
+      "name": "Frog's Leap Winery",
+      "region": "Napa Valley",
+      "address": "8815 Conn Creek Road, Rutherford, CA 94573",
+      "latitude": 38.4746,
+      "longitude": -122.4028,
+      "phone": "(707) 963-4704",
+      "website": "https://www.frogsleap.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "An organic, solar-powered, totally unpretentious Rutherford farm where you taste on the porch of a 1880s yellow farmhouse.",
+      "editorial": "Frog's Leap is the antidote to Napa's polish — a working organic farm with a red barn, gardens, and a Vineyard House porch that's set up for long, relaxed seated tastings. The wines (Sauvignon Blanc, Merlot, Rutherford Cab) are honest and beautifully made, the staff treats you like a friend, and they're one of the few Napa wineries that actually allow dogs on certain outdoor experiences. Note: no picnics on the property per county rules.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "reservationRequired",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Reservations required for all experiences",
+        "Most experiences 21+ only; Family Friendly Garden Tasting allows all ages",
+        "Dogs NOT permitted inside winemaking facilities; outdoor access unconfirmed",
+        "Closed Wednesdays"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "cakebread-cellars",
+      "name": "Cakebread Cellars",
+      "region": "Napa Valley",
+      "address": "8300 St Helena Highway, Rutherford, CA 94573",
+      "latitude": 38.4523,
+      "longitude": -122.4127,
+      "phone": "(800) 588-0298",
+      "website": "https://www.cakebread.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A second-generation Napa stalwart known for Sauvignon Blanc, Chardonnay, and one of the valley's most thoughtful food-and-wine programs.",
+      "editorial": "Cakebread is the rare big-name Napa winery that's stayed truly family-run, and it shows in the tasting experience: warm, communal, and food-forward (the on-site culinary program is part of why they're famous). They offer a daily Family Tasting that welcomes kids — uncommon in Napa — and outside food is firmly not allowed per county rules. Reserve well ahead; this is one of the most-visited tasting rooms in the valley.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "adultsOnly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ only (daily Family Tasting welcomes kids — uncommon exception)",
+        "Reservations required",
+        "Pets NOT permitted (FDA regulations); wine club members: 1 pet at outdoor Wine Club Lounge only",
+        "No outside food or beverages — Napa County regulations",
+        "Food on site: culinary garden, food pairing experiences"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "castello-di-amorosa",
+      "name": "Castello di Amorosa",
+      "region": "Napa Valley",
+      "address": "4045 St Helena Highway, Calistoga, CA 94515",
+      "latitude": 38.5586,
+      "longitude": -122.5424,
+      "phone": "(707) 967-6272",
+      "website": "https://castellodiamorosa.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "An authentically built 13th-century-style Tuscan castle in Napa — moats, drawbridge, dungeon and all — with surprisingly good Italian-style wines.",
+      "editorial": "Castello is the Disney-Napa hybrid you didn't know you wanted: a fully realized medieval castle with 107 rooms, frescoed great hall, and yes, a torture chamber. The tour is the point, and tickets include grape juice for kids ($25 general admission for under-21s). Wines lean Italian — Sangiovese, Barbera, Cab — and well-behaved leashed dogs are welcome on outdoor portions of the tour. Reserve ahead, wear walking shoes, leave the stroller in the car.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "reservationRequired",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "By reservation only; 75-minute tasting limit",
+        "Dogs welcome leashed outdoors and on self-guided tour; NOT inside or on guided tour; mention when booking",
+        "No outside food — Napa County ordinance prohibits picnicking",
+        "No strollers, selfie sticks, or drones on property"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "stag-s-leap-wine-cellars",
+      "name": "Stag's Leap Wine Cellars",
+      "region": "Napa Valley",
+      "address": "5766 Silverado Trail, Napa, CA 94558",
+      "latitude": 38.4047,
+      "longitude": -122.3133,
+      "phone": "(707) 261-6410",
+      "website": "https://www.stagsleapwinecellars.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "The Cabernet house that beat Bordeaux in 1976 — still pouring CASK 23, S.L.V., and FAY against the Stags Leap Palisades.",
+      "editorial": "This is the Cab that won the Judgment of Paris, and the estate has the gravity to match: a modern visitor center looking up at the dramatic Stags Leap Palisades, with the legendary S.L.V. and FAY vineyards visible from your seat. The Estate Experience descends into the wine caves; the Signature is a more standard seated tasting on the patio. Strictly 21+, no pets, no walk-ins — this is a reverent, grown-up visit.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "greatView",
+        "adultsOnly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Reservations required",
+        "No pets — certified service animals only",
+        "Food and wine pairing experiences on site; advance notice for dietary requirements",
+        "No outside beverages (permit restrictions)"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "far-niente",
+      "name": "Far Niente",
+      "region": "Napa Valley",
+      "address": "1350 Acacia Drive, Oakville, CA 94562",
+      "latitude": 38.4376,
+      "longitude": -122.4187,
+      "phone": "(707) 944-2861",
+      "website": "https://farniente.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A 19th-century stone winery, vintage car collection, lavish gardens, and Oakville Cab — Napa's most cinematic estate.",
+      "editorial": "Far Niente translates as 'without a care,' which is the goal — a beautifully restored 1885 stone winery, manicured gardens, a museum of vintage Italian cars, and Chardonnay and Cabernet served in the Great Hall. The tour goes through the historic caves before a seated tasting. Strictly by appointment, 21+ only, no dogs, no kids, and book at least two weeks ahead. This is bucket-list Napa.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "greatView",
+        "adultsOnly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "By appointment only — reservations required at least 2 weeks in advance",
+        "21+ only; no children",
+        "Pets NOT permitted",
+        "Food included in tasting: seasonal chef-inspired cheese plate with wine flight"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "hermann-j-wiemer-vineyard",
+      "name": "Hermann J. Wiemer Vineyard",
+      "region": "Finger Lakes",
+      "address": "3962 NY-14, Dundee, NY 14837",
+      "latitude": 42.4836,
+      "longitude": -76.9355,
+      "phone": "(607) 243-7971",
+      "website": "https://www.wiemer.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "The Finger Lakes' definitive Riesling house — biodynamic, low-intervention, set in a converted 90-year-old barn on Seneca Lake.",
+      "editorial": "Wiemer is the name critics like Eric Asimov reach for when they argue American Riesling can stand with Germany. The tasting room is inside a beautifully restored scissor-trussed barn on the west shore of Seneca Lake, the wines are seated and à la carte (design your own flight), and they're explicit about welcoming leashed pets and family members alike. Reservations recommended; walk-ins welcome.",
+      "attributes": [
+        "dogFriendly",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:30",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed at all times",
+        "Reservations highly recommended; walk-ins if space allows",
+        "Limos and buses not permitted on property",
+        "Small-production artisan Finger Lakes estate winery"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "dr-konstantin-frank-winer",
+      "name": "Dr. Konstantin Frank Winery",
+      "region": "Finger Lakes",
+      "address": "9749 Middle Road, Hammondsport, NY 14840",
+      "latitude": 42.4717,
+      "longitude": -77.2419,
+      "phone": "(800) 320-0735",
+      "website": "https://www.drfrankwines.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "The pioneer that proved vinifera could survive Finger Lakes winters — multi-generational, with sparkling, Riesling, and Keuka Lake views.",
+      "editorial": "Dr. Frank is the historical heart of Finger Lakes wine — Konstantin Frank planted the first European vinifera here in the 1960s and his descendants now run a charming, multi-format hospitality program on a Keuka Lake bluff. The Signature Seated Tasting is the structured option; Eugenia's Garden is a walk-up outdoor wine bar where you can sit with a flight, a glass, or a cheeseboard. Dogs are welcome in the outdoor garden but not the tasting room.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed in outdoor areas and select indoor spaces — NOT in 1886 Wine Experience",
+        "Children welcome with parent or guardian; juice boxes provided",
+        "Reservations strongly encouraged; max 6 per standard tasting reservation",
+        "Views of Keuka Lake from property"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "lamoreaux-landing-wine-ce",
+      "name": "Lamoreaux Landing Wine Cellars",
+      "region": "Finger Lakes",
+      "address": "9224 State Route 414, Lodi, NY 14860",
+      "latitude": 42.6118,
+      "longitude": -76.8478,
+      "phone": "(607) 582-6011",
+      "website": "https://lamoreauxwine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "An elegant Greek Revival-inspired tasting room on the Seneca Lake bluff, picnic tables out back, top-tier estate Riesling within.",
+      "editorial": "Lamoreaux Landing's clean-lined, columned tasting room sits high above Seneca Lake's east shore, and the back lawn is dotted with picnic tables that have what locals consider one of the best lake views in the region. They explicitly welcome picnics on the lawn (no outside food in the tasting room itself), leashed dogs are fine inside and out, and the wines — especially the Riesling and Gruner — punch well above the $12 tasting fee.",
+      "attributes": [
+        "dogFriendly",
+        "bringYourOwnFood",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food allowed at outdoor picnic tables only — not inside tasting room",
+        "No outside beverages; wine purchased on site only",
+        "Dogs welcome leashed, must stay at table",
+        "Reservations strongly encouraged via Tock; walk-ins not guaranteed",
+        "Max party 8; last group-of-8 reservation at 3:30 PM",
+        "Closed New Year's Day, Easter, Thanksgiving, Christmas"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "ravines-wine-cellars",
+      "name": "Ravines Wine Cellars",
+      "region": "Finger Lakes",
+      "address": "400 Barracks Road, Geneva, NY 14456",
+      "latitude": 42.8137,
+      "longitude": -76.9925,
+      "phone": "(315) 781-7007",
+      "website": "https://ravineswine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A European-trained winemaker plus chef wife running one of the Finger Lakes' most polished tasting rooms inside a historic barn.",
+      "editorial": "Ravines is run by Morten Hallgren (trained in France) and his chef wife Lisa, and their Geneva flagship reflects both: Old World dry Rieslings and Cab Francs in a beam-and-slate barn, plus a serious in-house restaurant — the Ravinous Kitchen — doing wine-friendly small plates. The lawn is broad enough that families and leashed dogs both fit comfortably. Reservations encouraged but walk-ins generally work.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "familyFriendly",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Two tasting room locations: Geneva and Keuka Lake",
+        "Dogs permitted at outdoor patio areas at both locations",
+        "Reservations strongly encouraged; groups 6+ require Large Group Tasting request",
+        "Closed Easter, Thanksgiving, Christmas Day, New Year's Day; early close Christmas Eve and New Year's Eve"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "stoller-family-estate",
+      "name": "Stoller Family Estate",
+      "region": "Willamette Valley",
+      "address": "16161 NE McDougall Road, Dayton, OR 97114",
+      "latitude": 45.2273,
+      "longitude": -123.0398,
+      "phone": "(503) 864-3404",
+      "website": "https://www.stollerfamilyestate.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Dundee Hills sustainability poster child — net-zero tasting room, vast lawn, tire swing in the vineyard, and Pinot for days.",
+      "editorial": "Stoller is the rare wine experience that genuinely welcomes everyone — kids run free on the lawn, leashed dogs are welcome on the patio, and the panoramic Dundee Hills view from the LEED Gold-certified tasting room never gets old. The wines (Pinot Noir, Chardonnay, rosé) are solid, the food menu enhances them, and they actively encourage you to bring your own picnic. One of the most relaxed and family-friendly stops in Oregon wine country.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "weekday": 2,
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "weekday": 3,
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "weekday": 4,
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "weekday": 5,
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "weekday": 6,
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "weekday": 7,
+          "open": "10:30",
+          "close": "17:30"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO food welcome",
+        "Dogs welcome leashed on patio and lawn; NOT inside (Oregon Health Authority)",
+        "Limited food menu on site: wine country boards, snacks, sandwiches",
+        "Walk-ins welcome; reservations available; groups 13+: contact for Experience Center"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "king-estate-winery",
+      "name": "King Estate Winery",
+      "region": "Willamette Valley",
+      "address": "80854 Territorial Highway, Eugene, OR 97405",
+      "latitude": 43.9447,
+      "longitude": -123.2706,
+      "phone": "(541) 942-9874",
+      "website": "https://kingestate.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "The largest biodynamic vineyard in North America — a hilltop château with sweeping views and Oregon's flagship Pinot Gris.",
+      "editorial": "King Estate sits on a hilltop south of Eugene with the kind of European-style château architecture you don't expect in southern Willamette. It's North America's largest certified biodynamic vineyard, the Pinot Gris is what built their reputation, and the tasting room has views over the valley that feel like Tuscany. The on-site restaurant scaled back to a tasting-room food menu in 2023, but you can still pair flights with serious bites.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "By reservation only; walk-ins face up to 1-hour wait",
+        "Pets NOT permitted indoors or outdoors",
+        "Outside food and beverage NOT permitted",
+        "Food + wine pairings on site; no menu modifications; 20% service charge parties 5+",
+        "Closed Tuesdays; 2-hour visit limit; parties cannot combine separate reservations"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "sokol-blosser-winery",
+      "name": "Sokol Blosser Winery",
+      "region": "Willamette Valley",
+      "address": "5000 NE Sokol Blosser Lane, Dayton, OR 97114",
+      "latitude": 45.264,
+      "longitude": -123.0395,
+      "phone": "(503) 864-2282",
+      "website": "https://sokolblosser.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Dundee Hills pioneer (since 1971) with a lawn full of sling chairs, Pinot in the glass, and Friday-night 'Live on the Lawn' summer concerts.",
+      "editorial": "Sokol Blosser planted some of Oregon's first Pinot vines in 1971 and now hands the winery off to the second generation, who've made it both serious and fun. The hillside lawn is dotted with sling-back chairs around fire pits, the tasting room is sleek and walk-in friendly, and their Live on the Lawn summer concert series (Fridays) is the kind of low-key wine country evening Instagram dreams of. Outside food isn't allowed — they sell their own.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "liveMusic",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food NOT permitted; food available for purchase on site",
+        "Dogs welcome leashed outdoors; NOT inside (Oregon Health Authority)",
+        "Reservations highly recommended; walk-ins if space available",
+        "Groups up to 8 for seated tastings"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "ponzi-vineyards",
+      "name": "Ponzi Vineyards",
+      "region": "Willamette Valley",
+      "address": "19500 SW Mountain Home Road, Sherwood, OR 97140",
+      "latitude": 45.355,
+      "longitude": -122.907,
+      "phone": "(503) 628-1227",
+      "website": "https://www.ponzivineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A founding Oregon Pinot family (since 1970) in a modern hilltop tasting room with bocce courts and Chehalem Mountain views.",
+      "editorial": "The Ponzi family helped invent Oregon Pinot Noir, and their Sherwood tasting room — a glass-walled hilltop building with bocce courts and a covered terrace — is the polished version of their pioneer story. Tastings run a structured 90 minutes for $50; the wines (Laurelwood District Pinot in particular) are top-tier. Children are welcome if supervised, and reservations are strongly encouraged though walk-ins fit in when space allows.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "familyFriendly",
+        "dogFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed on lower terrace",
+        "Rotating seasonal food on site; 4-course lunch available with 48-hr advance reservation",
+        "Reservations strongly encouraged; walk-ins if space allows",
+        "Bocce court available for kids; family movie days offered"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "becker-vineyards",
+      "name": "Becker Vineyards",
+      "region": "Texas Hill Country",
+      "address": "464 Becker Farms Road, Stonewall, TX 78671",
+      "latitude": 30.2533,
+      "longitude": -98.7211,
+      "phone": "(830) 644-2681",
+      "website": "https://beckervineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Texas Hill Country institution — a German-stone barn winery surrounded by lavender fields and one of the most-awarded names in the state.",
+      "editorial": "Becker has been Texas Hill Country wine royalty since 1992, sitting on a property that includes a reconstructed 19th-century German stone barn, lavender fields in bloom from May, and a Pavilion event space. The tasting room is large and walk-in friendly, picnics are explicitly welcome on the grounds (no outside alcohol), and leashed dogs are fine outside. Worth the drive between Fredericksburg and Stonewall.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "greatView",
+        "familyFriendly",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Picnic lunches welcome on grounds; no outside alcohol",
+        "Dogs welcome leashed on Verandah, Pavilion, and Lawn; must be vaccinated; NOT inside",
+        "Charcuterie boards and light condiments on site",
+        "Live music typically Saturdays and Sundays at Estate Winery"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "william-chris-vineyards",
+      "name": "William Chris Vineyards",
+      "region": "Texas Hill Country",
+      "address": "10352 US-290, Hye, TX 78635",
+      "latitude": 30.2664,
+      "longitude": -98.5547,
+      "phone": "(830) 998-7654",
+      "website": "https://williamchriswines.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "100% Texas-grown, fiercely terroir-focused — the cult name in Hill Country reds, served at a historic 1905 Hye farmhouse.",
+      "editorial": "William Chris is the winery most insiders point to when they argue Texas can make wine that competes with anywhere. Everything is 100% Texas fruit, the focus is Tempranillo, Mourvedre, and Cab Franc, and the tasting happens in and around a restored 1905 farmhouse with a sprawling lawn. Tastings are scheduled (11am, 1:30pm, 4pm with variation by day), it's 21+, leashed dogs are welcome outside, and they'll pre-make you a $20 picnic lunch with 24 hours notice — or you can bring your own.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "reservationRequired",
+        "greatView",
+        "adultsOnly",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ for wine tasting experiences",
+        "Dogs welcome leashed outdoors; NOT inside tasting room",
+        "Farmhouse Bistro: walk-up, no reservation; seasonal rotating menu",
+        "Live music on weekends (see live music calendar on website)",
+        "Most tastings require advance booking; groups 20+ call ahead"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "bull-run-winery",
+      "name": "The Winery at Bull Run",
+      "region": "Fairfax County",
+      "address": "15950 Lee Hwy, Centreville, VA 20120",
+      "latitude": 38.84,
+      "longitude": -77.43,
+      "phone": "(703) 815-2233",
+      "website": "https://wineryatbullrun.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "The closest proper Virginia farm winery to DC — festive, social, BYO picnic on the lawn.",
+      "editorial": "The closest proper Virginia farm winery to Washington DC, Bull Run sits on historic Civil War-era land in Centreville with a split personality: an adult-only front lawn and a family-friendly back area with food trucks and live music every Fri/Sat/Sun. BYO picnics are welcome on the outdoor lawn (not indoors or covered patios), and Bull Run Pizza is on-site almost every day. It skews festive and social rather than intimate — expect weekend crowds and easy parking off Lee Highway.",
+      "attributes": [
+        "foodOnsite",
+        "bringYourOwnFood",
+        "liveMusic",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO food permitted on outdoor lawn tables only — NOT indoors or on covered patios",
+        "Soft coolers, picnic baskets, lunch boxes with ice packs OK; hard coolers prohibited",
+        "No outside beverages of any kind (ABC Farm Winery License)",
+        "Dogs in Dog-Park section ONLY — not in tasting room, at bars, on patios, or public lawns",
+        "21+ zone: front lawn and covered patio; family zone: back lawn and tent (children supervised)",
+        "NOT adults-only — dual-zone property",
+        "Live music every Friday, Saturday, and Sunday",
+        "Food trucks Sat–Sun year-round; Fri evenings in spring/summer",
+        "Walk-in only since Oct 2022; groups 13+ need 24-hour advance notice"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "walkInOnly",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "paradise-springs-winery",
+      "name": "Paradise Springs Winery",
+      "region": "Fairfax County",
+      "address": "13219 Yates Ford Rd, Clifton, VA 20124",
+      "latitude": 38.778,
+      "longitude": -77.388,
+      "phone": "703-830-9463",
+      "website": "https://www.paradisespringswinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Rare Fairfax-proper winery — wine country without the 45-minute drive west.",
+      "editorial": "Tucked into the wooded hills of Clifton, Paradise Springs is one of the very few wineries within Fairfax County itself — a rare find for Northern Virginia residents who want wine country without the 45-minute drive. The estate grows its own fruit and offers extended Friday evenings alongside a seven-day schedule that outpaces most Loudoun competitors.",
+      "attributes": [
+        "foodOnsite",
+        "bringYourOwnFood",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "BYO food permitted outdoors (lawn) with minimal restrictions; no grills or tent setups",
+        "BYO food indoors/back deck: must fit on your table; no coolers indoors or on back deck",
+        "No outside beverages of any kind — including no solid-colored plastic cups",
+        "No outside alcohol (Virginia ABC law)",
+        "Dogs welcome on lawn only with leash — NOT inside buildings or on back deck",
+        "Back patio deck is 21+ adults-only zone; children welcome on lawn and elsewhere with parents",
+        "Live music every Saturday and Sunday 1 PM–5 PM — free with purchase",
+        "Food Artisan Truck: Thu 4–6:30 PM, Fri 2–8:30 PM, Sat–Sun 11 AM–6:30 PM",
+        "No reservations Mon–Fri; weekend group tastings (1–20) require advance booking"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "cana-vineyards",
+      "name": "Cana Vineyards and Winery of Middleburg",
+      "region": "Loudoun County",
+      "address": "38600 Little River Tpk, Middleburg, VA 20117",
+      "latitude": 38.969,
+      "longitude": -77.736,
+      "phone": "(703) 348-2458",
+      "website": "https://canavineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "43-acre Middleburg AVA family farm — estate Viognier in a quiet rural setting.",
+      "editorial": "A family farm winery on 43 acres of rolling Loudoun hills between Middleburg and Aldie, Cana has long been known for estate-grown Viognier and a quiet rural setting. As of April 2026 the property is officially listed for sale at $9M — it remains open while the transition plays out, but status could change. Call ahead before making the drive.",
+      "attributes": [
+        "greatView",
+        "dogFriendly",
+        "bringYourOwnFood",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed on ground floor, Sunset Pavilion, and grounds; treats + water bowls provided",
+        "BYO food welcome; food trucks also available on site",
+        "No outside alcohol — ABC regulations",
+        "Second floor is 21+ only; ground level is family-friendly",
+        "Closed Tuesday and Wednesday"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "50-west-vineyards",
+      "name": "50 West Vineyards",
+      "region": "Loudoun County",
+      "address": "39060 Little River Turnpike, Middleburg, VA 20117",
+      "latitude": 38.971,
+      "longitude": -77.738,
+      "phone": "571-367-4760",
+      "website": "https://www.50westvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Strictly 21+ across the property — quietly adult Middleburg AVA pick.",
+      "editorial": "Set on 55 acres just east of Middleburg, 50 West enforces one of the stricter age policies in Northern Virginia wine country — the entire property is 21+, no children. That keeps the atmosphere notably quieter and more adult-focused than many Loudoun neighbors. Weekend live music and outdoor picnicking make it a reliable date-night or small-group destination.",
+      "attributes": [
+        "dogFriendly",
+        "bringYourOwnFood",
+        "liveMusic",
+        "adultsOnly",
+        "foodOnsite",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ ONLY — applies to entire property including all outdoor spaces",
+        "BYO food/non-alcoholic beverages permitted outdoors; coolers inspected; no outside food indoors",
+        "No outside alcohol permitted",
+        "Dogs leashed in outdoor areas main level only — not inside tasting room",
+        "Reservations optional ≤8; mandatory 9+",
+        "Decorative items require event rental or will be returned to vehicle"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "8-chains-north",
+      "name": "8 Chains North",
+      "region": "Loudoun County",
+      "address": "38593 Daymont Ln, Waterford, VA 20197",
+      "latitude": 39.184,
+      "longitude": -77.617,
+      "phone": "571-439-2255",
+      "website": "https://www.8chainsnorth.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Off-leash dog park, a real food menu, and a permissive BYO policy — Loudoun's most all-in winery.",
+      "editorial": "One of the most family- and dog-friendly wineries in Loudoun County, 8 Chains North in Waterford features an off-leash dog park, a full food menu, and a genuinely permissive outside food policy. Extended Wednesday evenings and late Friday hours give it strong weeknight appeal. The indoor/outdoor layout and welcoming approach to kids and dogs make it a standout for mixed-group visits.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "familyFriendly",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "20:30"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food permitted at your table (indoor and outdoor)",
+        "No outside alcohol",
+        "Dogs: dog park (off-leash) + leashed at tables + leashed inside tasting room if quiet",
+        "Food available Fri–Sun and Wed evenings on site",
+        "Children must remain within arm's reach of parent",
+        "Live music regularly scheduled — multiple events per week in season (see calendar)"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "lost-creek-echelon",
+      "name": "The Vineyards & Winery at Lost Creek",
+      "region": "Loudoun County",
+      "address": "32 S King St, Leesburg, VA 20176",
+      "latitude": 39.115,
+      "longitude": -77.564,
+      "phone": "703-443-9836",
+      "website": "https://www.lostcreekwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "100% Loudoun-grown wine served speakeasy-style in downtown Leesburg.",
+      "editorial": "Lost Creek has relocated its public tasting experience from the vineyard to Echelon Wine Bar, a speakeasy-style space in downtown historic Leesburg. The wines are 100% Loudoun County-grown and pair well with a full dinner or brunch menu. Important caveat: the winery's vineyard on Spinks Ferry Road in Bluemont is a production facility only — it is not open to the public for visits.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "dogFriendly",
+        "adultsOnly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "14:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 2,
+          "open": "16:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 3,
+          "open": "16:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 4,
+          "open": "16:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 5,
+          "open": "16:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 6,
+          "open": "15:00",
+          "close": "22:00"
+        },
+        {
+          "weekday": 7,
+          "open": "15:00",
+          "close": "22:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Urban tasting room in downtown Leesburg — not a vineyard property",
+        "Dogs allowed on lawn area only",
+        "Food/culinary pairings on site; Chef's Tasting experience via Tock",
+        "Reservations required via Tock",
+        "21+ only — no infants or children"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "hillsborough-winery",
+      "name": "Hillsborough Winery & Brewery",
+      "region": "Loudoun County",
+      "address": "36716 Charles Town Pike, Purcellville, VA 20132",
+      "latitude": 39.196,
+      "longitude": -77.731,
+      "phone": "(540) 668-6216",
+      "website": "https://www.hillsboroughwine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Wine and craft beer on the same property — accessible noon-to-8 schedule for western Loudoun.",
+      "editorial": "Hillsborough combines a winery and brewery on the same Loudoun County property just outside Purcellville, making it a genuine two-for-one stop for wine and craft beer fans. The open daily noon-to-8pm schedule is among the most accessible in western Loudoun, and the pet-friendly policy is a draw for dog owners exploring Charles Town Pike wine country.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "liveMusic",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed inside tasting room and on patio",
+        "On-site kitchen: salads, soups, brick-oven flatbreads",
+        "Live music every Friday 5–8 PM, April through October",
+        "Family-friendly — kids welcome"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "fabbioli-cellars",
+      "name": "Fabbioli Cellars",
+      "region": "Loudoun County",
+      "address": "15669 Limestone School Rd, Leesburg, VA 20176",
+      "latitude": 39.158,
+      "longitude": -77.514,
+      "phone": "(703) 771-1197",
+      "website": "https://www.fabbioliwines.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Small family operation known for fruit wines alongside traditional varietals.",
+      "editorial": "A small, family-owned operation on Limestone School Road in Leesburg, Fabbioli Cellars produces handcrafted wines — including notable fruit wines alongside traditional varietals — and runs a low-key, intimate tasting room experience. The closed Tuesday–Wednesday midweek schedule is typical for smaller Loudoun producers. Worth a stop for visitors exploring the eastern end of the Loudoun Wine Trail.",
+      "attributes": [
+        "dogFriendly",
+        "bringYourOwnFood",
+        "foodOnsite",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed outdoors; must clean up",
+        "BYO food permitted outdoors (picnic area); NOT inside tasting room",
+        "Monthly curated tasting: 7 wines + gourmet food pairings from local chefs",
+        "Live music Saturdays — multiple performers per month"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "three-fox-vineyards",
+      "name": "Three Fox Vineyards",
+      "region": "Fauquier County",
+      "address": "10100 Three Fox Lane, Delaplane, VA 20144",
+      "latitude": 38.922,
+      "longitude": -77.929,
+      "phone": "703-594-6136",
+      "website": "https://www.threefoxvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Picnic on the lawn, off-leash dog in the meadow, weekend food trucks — Delaplane unhurried.",
+      "editorial": "A Thursday-through-Sunday operation in the rolling Fauquier countryside near Delaplane, Three Fox leans into the picnic-on-the-lawn experience — bring your own lunch, let the dog run in the meadow, and settle in with a glass. Food trucks most weekends fill in the gaps. The abbreviated schedule means weekday visits aren't an option, but weekend afternoons here feel genuinely unhurried.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "familyFriendly",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "14:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome indoors (except upstairs lounge) and outdoors; off-leash in meadow under direct supervision",
+        "BYO food and non-alcoholic beverages permitted inside and outside",
+        "Outside alcohol PROHIBITED anywhere on property",
+        "Children welcome everywhere including indoors, except upstairs lounge",
+        "Outdoor options: seasonal patio, year-round covered deck, vineyard seating, meadow bar (May–Oct weekends)",
+        "North and West views from deck",
+        "Food trucks most Saturdays and Sundays; prepackaged snacks available"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "naked-mountain-winery",
+      "name": "Naked Mountain Winery",
+      "region": "Fauquier County",
+      "address": "2747 Leeds Manor Rd, Markham, VA 22643",
+      "latitude": 38.931,
+      "longitude": -78.004,
+      "phone": "(540) 364-1609",
+      "website": "https://www.nakedmtnwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Pets inside the tasting room, outside food on the grounds — Fauquier's most welcoming all-around policy.",
+      "editorial": "Sitting at the foot of the Blue Ridge in Markham, Naked Mountain has one of the most welcoming all-around policies of any Fauquier County winery — pets inside the tasting room, outside food on the grounds, children welcome, and no reservation required for most groups. The Saturday extended hours to 7 PM and the scenic Blue Ridge backdrop make it a strong weekend destination for multi-group visits.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "familyFriendly",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome inside tasting room, on lawn, and on deck — leash required",
+        "BYO food permitted inside, on deck, and on grounds",
+        "No outside alcohol (Virginia ABC); only Naked Mountain wines on property",
+        "Children welcome anywhere on property under supervision",
+        "No reservation required for parties under 8",
+        "Gorgeous views from property",
+        "Food onsite: sandwiches, small plates, charcuterie (varies seasonally)"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "trump-winery",
+      "name": "Trump Winery",
+      "region": "Monticello AVA",
+      "address": "385 Albemarle House Drive, Charlottesville, VA 22902",
+      "latitude": 38.005,
+      "longitude": -78.575,
+      "phone": "434-266-9909",
+      "website": "https://www.trumpwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Former Kluge Estate — 1,300-acre hilltop with estate sparkling and a Reserve Room restaurant.",
+      "editorial": "On the former Kluge Estate in Albemarle County, Trump Winery occupies a grand hilltop setting within the Monticello AVA and produces estate-grown sparkling wine and still wines across a 1,300-acre property. The Reserve Room restaurant offers an elevated lunch experience. Walk-ins are welcome for standard flight tastings, while the Grand Tasting and dining benefit from advance booking.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "dogFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed outdoors; not on furniture; must clean up",
+        "Reserve Room restaurant on site; seasonal menu + gourmet picnic selection",
+        "Groups under 20: walk-in; 20+: advance call required",
+        "Grand Tasting Experience: reservations recommended select Saturdays at noon"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": true,
+      "fullDining": true,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "horton-vineyards",
+      "name": "Horton Vineyards",
+      "region": "Orange County",
+      "address": "6399 Spotswood Trail, Gordonsville, VA 22942",
+      "latitude": 38.133,
+      "longitude": -78.185,
+      "phone": "(540) 832-7440",
+      "website": "https://www.hortonwine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Virginia wine pioneer — Viognier and Tannat before they were trendy. Daily 10 AM open.",
+      "editorial": "Horton Vineyards near Gordonsville is a Virginia wine pioneer — founder Dennis Horton championed Viognier and Tannat in the Commonwealth before either variety was fashionable. The daily 10 AM schedule makes it one of the earlier-opening wineries in the state. Located along the Spotswood Trail in Orange County, it's a natural stop on any central Virginia wine route.",
+      "attributes": [
+        "dogFriendly",
+        "familyFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "liveMusic",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Daily 10 AM–5 PM year-round",
+        "Indoor tasting room + covered pavilion",
+        "Dogs welcome inside and outside; treats and water bowls provided",
+        "Family-friendly with kids coloring table; hosts family events",
+        "Cafe on site with food available",
+        "BYO picnic food permitted on grounds",
+        "Live music concerts and events hosted regularly",
+        "Blue Ridge Mountain views from property"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "prince-michel-vineyards",
+      "name": "Prince Michel Vineyard & Winery",
+      "region": "Madison County",
+      "address": "154 Winery Ln, Leon, VA 22725",
+      "latitude": 38.43,
+      "longitude": -78.058,
+      "phone": "(540) 547-3707",
+      "website": "https://www.princemichel.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Multi-room estate winery with pub, on-site dining, and seven-day hours — easy walk-in stop on the 29 corridor.",
+      "editorial": "Prince Michel is one of the oldest commercial wineries in the Madison/Orange corridor, with a multi-room facility that includes a tasting room, a pub room, and on-site accommodations. Self-guided tastings are walk-in friendly all week — a useful baseline when most Virginia wineries push reservations on weekends. The Mon evening (8 PM close) and Fri/Sat extended hours (9 PM close) give it strong dinner-pairing range that most rural wineries don't try to compete with.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Self-guided tour + tasting — no reservation required walk-in",
+        "Private tours and group experiences require advance booking (call or email)",
+        "Dogs welcome on the property — leashed (non-retractable) only; NOT inside the tasting room, pub room, or other indoor areas",
+        "Family-owned, family-friendly setting; on-site accommodations available",
+        "Mon evening close 8 PM; Fri/Sat close 9 PM; closed nights otherwise"
+      ],
+      "lastVerified": "2026-05-31",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "old-house-vineyards",
+      "name": "Old House Vineyards",
+      "region": "Culpeper County",
+      "address": "18351 Corkys Lane, Culpeper, VA 22701",
+      "latitude": 38.473,
+      "longitude": -77.997,
+      "phone": "540-423-1032",
+      "website": "https://oldhousetoday.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Multi-venue complex — winery, brewery, distillery, and Irish pub on one property.",
+      "editorial": "Old House Vineyards in Culpeper has evolved into a multi-venue complex under the 'Old House Today' brand, incorporating a winery, brewery, distillery, and Irish pub on the same property. Different venues operate on different days, so arrival intent matters — the winery, brewery, and pub have distinct schedules and policies. The Friday extended hours and weekend food service make it the best time to experience the full offering.",
+      "attributes": [
+        "foodOnsite",
+        "familyFriendly",
+        "dogFriendly",
+        "liveMusic",
+        "greatView",
+        "bringYourOwnFood"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Multiple venues on property: winery, brewery, distillery, Irish Pub — each with separate schedules",
+        "Irish Pub is 21+ only; other venues family-friendly",
+        "Green Ribbon kitchen open Friday–Sunday",
+        "Seasonal soups available Monday/Wednesday/Thursday",
+        "Closed Tuesdays",
+        "Dogs welcome outdoors only — must be leashed",
+        "BYO picnic food welcome; picnic tables available",
+        "75-acre property with Blue Ridge Mountain views and pond",
+        "Live music at seasonal celebrations and special events"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": true,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "rappahannock-cellars",
+      "name": "Rappahannock Cellars",
+      "region": "Rappahannock County",
+      "address": "14437 Hume Rd, Huntly, VA 22640",
+      "latitude": 38.812,
+      "longitude": -78.074,
+      "phone": "(540) 635-9398",
+      "website": "https://www.rappahannockcellars.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Hot baguette sandwiches, dogs on the patio, BYO picnic after your tasting — daily noon open.",
+      "editorial": "Set in the pastoral foothills of Rappahannock County near Huntly, Rappahannock Cellars is a genuinely relaxed daily operation with a welcoming policy toward kids, dogs, and picnickers. The hot baguette sandwiches made on-site are a cut above the typical charcuterie board, and the seven-days-a-week noon schedule makes it easy to incorporate into a weekend drive through the county.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "bringYourOwnFood",
+        "familyFriendly",
+        "greatView",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs AND cats welcome leashed in all outdoor areas; pet station + water/treats available",
+        "BYO picnic welcome after tasting",
+        "Light fare menu: cheeses, baguette sandwiches, spreads",
+        "Live music on weekends",
+        "Extensive outdoor seating: patios, decks, lawn, porches, pavilion, rooftop patio"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "chatham-vineyards",
+      "name": "Chatham Vineyards",
+      "region": "Eastern Shore",
+      "address": "9232 Chatham Rd, Machipongo, VA 23405",
+      "latitude": 37.412,
+      "longitude": -75.918,
+      "phone": "757-678-5588",
+      "website": "https://chathamvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Coastal Eastern Shore farm winery — actively encourages takeout picnics from local restaurants.",
+      "editorial": "On the unspoiled Virginia Eastern Shore near Machipongo, Chatham Vineyards is one of the state's most distinctive wine destinations — estate-grown vines on a working farm with direct access to coastal breezes that define the wine's character. The winery actively encourages picnicking with takeout from local restaurants, and the daily 10 AM opening is among the earliest in the state.",
+      "attributes": [
+        "foodOnsite",
+        "bringYourOwnFood",
+        "liveMusic",
+        "greatView",
+        "dogFriendly",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Daily 10 AM–5 PM",
+        "BYO food from local restaurants actively encouraged — picnic on the grounds",
+        "Food onsite: local cheese, freshly baked bread, shareable snacks in tasting room",
+        "Outdoor iron tables for picnicking with Church Creek views",
+        "Live music events at the Crush Pad — no confirmed weekly cadence",
+        "Dogs welcome leashed inside tasting room, on porch/patio, and outside"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "williamsburg-winery",
+      "name": "Williamsburg Winery",
+      "region": "Greater Williamsburg",
+      "address": "5800 Wessex Hundred, Williamsburg, VA 23185",
+      "latitude": 37.276,
+      "longitude": -76.708,
+      "phone": "757-229-0999",
+      "website": "https://www.williamsburgwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Virginia's largest producer — tasting room, wine bar, and the Gabriel Archer Tavern garden-to-table.",
+      "editorial": "Virginia's largest winery by production, Williamsburg Winery anchors the Colonial Williamsburg wine scene with a full-service tasting room, wine bar, and the beloved Gabriel Archer Tavern serving estate-garden-to-table cuisine. The daily 11:30 AM–7:30 PM tasting room schedule is among the most generous in the state, and the Historic Triangle location makes it a natural pairing with Colonial Williamsburg visits.",
+      "attributes": [
+        "foodOnsite",
+        "reservationRequired",
+        "dogFriendly",
+        "familyFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:30",
+          "close": "19:30"
+        },
+        {
+          "weekday": 2,
+          "open": "11:30",
+          "close": "19:30"
+        },
+        {
+          "weekday": 3,
+          "open": "11:30",
+          "close": "19:30"
+        },
+        {
+          "weekday": 4,
+          "open": "11:30",
+          "close": "19:30"
+        },
+        {
+          "weekday": 5,
+          "open": "11:30",
+          "close": "19:30"
+        },
+        {
+          "weekday": 6,
+          "open": "11:30",
+          "close": "19:30"
+        },
+        {
+          "weekday": 7,
+          "open": "11:30",
+          "close": "19:30"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome leashed outdoors (patio/lawn at Wine Pavilion and Duck Pond Picnic Area); max 2 per party; NOT indoors or covered areas",
+        "Upper level Wine Pavilion reserved for 21+ only; lower level family-friendly",
+        "Children 12 and under must be supervised by adult",
+        "Gabriel Archer Tavern on site: full dining; Wine Shop: artisanal snacks",
+        "BYO food policy not stated in FAQ — verify before tagging bringYourOwnFood"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": true,
+      "fullDining": true,
+      "reservationPolicy": "required",
+      "familyPolicy": "dualZone"
+    },
+    {
+      "id": "flying-fox-vineyard",
+      "name": "Flying Fox Vineyard",
+      "region": "Nelson County",
+      "address": "10368 Critzer Shop Road, Afton, VA 22920",
+      "latitude": 38.04,
+      "longitude": -78.835,
+      "phone": "434-361-1692",
+      "website": "https://www.flyingfoxvineyard.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "No-reservations small-batch terroir — straddles Monticello and Shenandoah AVAs.",
+      "editorial": "A small-production, no-reservations winery in Afton at the foot of the Blue Ridge, Flying Fox straddles two AVAs — Monticello and Shenandoah — which shows in its experimental, terroir-driven style. The 11 AM daily opening and walk-in-only policy keep it refreshingly unpretentious. Outside food is welcome, dogs are welcome, and the vineyard setting is among the more genuinely scenic in Nelson County.",
+      "attributes": [
+        "dogFriendly",
+        "bringYourOwnFood",
+        "greatView",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:30"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "No food served on site — BYO food welcome outdoors",
+        "Dogs welcome",
+        "Small production Nelson County winery; mountain views",
+        "No reservations — walk-in only"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "walkInOnly",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "bluestone-vineyard",
+      "name": "Bluestone Vineyard",
+      "region": "Shenandoah Valley",
+      "address": "4828 Spring Creek Rd, Bridgewater, VA 22812",
+      "latitude": 38.385,
+      "longitude": -78.973,
+      "phone": "540-828-0099",
+      "website": "https://www.bluestonevineyard.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Gentle farmland with mountain views — Shenandoah without the Loudoun crowds.",
+      "editorial": "A Shenandoah Valley standout near Bridgewater, Bluestone Vineyard draws visitors looking for wine country without the Loudoun crowds. The setting is gentle farmland with mountain views, and the six-day Monday–Saturday schedule (Sunday opens later at 1 PM) is reliable for trip planning. One of the better introductions to the Shenandoah Valley wine scene.",
+      "attributes": [
+        "greatView",
+        "dogFriendly",
+        "liveMusic",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "13:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome; leash required",
+        "Live music: 2nd and 4th Fridays May–September (Toast the Weekend Summer Concert Series)",
+        "Groups 8+: appointment required with deposit",
+        "Shenandoah Valley location with mountain and farmland views"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "cross-keys-vineyards",
+      "name": "Cross Keys Vineyards",
+      "region": "Shenandoah Valley",
+      "address": "6011 E Timber Ridge Rd, Mt Crawford, VA 22841",
+      "latitude": 38.359,
+      "longitude": -78.937,
+      "phone": "540-234-0505",
+      "website": "https://www.crosskeysvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Panoramic Shenandoah views with an on-site bistro — open till 7 PM most nights.",
+      "editorial": "Cross Keys Vineyards occupies a sweeping Rockingham County farm near Mt Crawford with panoramic Shenandoah Valley views and an on-site bistro that elevates it above most casual wine stops. The extended Monday–Saturday hours until 7 PM are among the latest in the valley. A reliable anchor for any Shenandoah Valley wine itinerary, particularly for those exploring the region south of Harrisonburg.",
+      "attributes": [
+        "dogFriendly",
+        "foodOnsite",
+        "familyFriendly",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Outside food/picnics NOT permitted — on-site bistro",
+        "Dogs welcome leashed on outdoor patio and veranda; NOT inside",
+        "No age restriction; well-behaved kids welcome",
+        "Walk-ins up to 8; groups 8+ call ahead; 48-hr cancellation policy"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": true,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "chateau-morrisette",
+      "name": "Chateau Morrisette Winery",
+      "region": "Blue Ridge Highlands",
+      "address": "291 Winery Rd SW, Floyd, VA 24091",
+      "latitude": 36.91,
+      "longitude": -80.32,
+      "phone": "(540) 593-2865",
+      "website": "https://www.thedogs.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "300 ft off the Blue Ridge Parkway — southernmost Virginia winery with a New American restaurant.",
+      "editorial": "Located 300 feet off the Blue Ridge Parkway between Mabry Mill and Rocky Knob in Floyd County, Chateau Morrisette is the southernmost major winery on the Virginia wine trail and one of the state's most distinctive stops. The on-site restaurant ('The Dogs') anchors a full dining experience, and the Parkway proximity draws touring cyclists and road-trippers. A genuinely different regional character from Northern Virginia or Charlottesville wine country.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "dogFriendly",
+        "familyFriendly",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dogs welcome on leash in tasting room, grounds, and outdoor patio",
+        "On-site restaurant (The Dogs) serves lunch and dinners — reservations encouraged",
+        "Family-friendly — children explicitly welcome at most events",
+        "Black Dog Concert Series — seasonal cadence; check events calendar for schedule",
+        "Located 300 ft off Blue Ridge Parkway between Mabry Mill and Rocky Knob",
+        "Walk-ins welcome for tasting room; reservations encouraged for restaurant"
+      ],
+      "lastVerified": "2026-05-28",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": true,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    }
+  ]
+}
