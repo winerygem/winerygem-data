@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-08T01:51:08Z",
+  "lastUpdated": "2026-06-08T03:06:57Z",
   "wineriesCount": 62,
   "wineries": [
     {
@@ -64,12 +64,12 @@
       "claimed": false,
       "policyNotes": [
         "Outside food NOT permitted — both tasting rooms have food menus",
-        "Dogs welcome inside and outside at Harvest Barn (Gate #1); family-friendly, walk-in",
-        "Harvest Barn: first-come first-served, no reservations; other tasting rooms via Tock",
+        "Leashed dogs welcome inside and outside Harvest Barn; outside Tower View only",
+        "Harvest Barn: family-friendly, all ages, walk-in (no reservations for groups of 8 or fewer)",
         "Max 2.5-hour visit per party in public spaces",
         "Closed Tuesday and Wednesday"
       ],
-      "lastVerified": "2026-05-28",
+      "lastVerified": "2026-06-05",
       "dogPolicy": "withYou",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": "seasonal",
@@ -234,16 +234,16 @@
     },
     {
       "id": "rdv",
-      "name": "RdV Vineyards",
+      "name": "Lost Mountain Vineyards",
       "region": "Fauquier County",
       "address": "2550 Delaplane Grade Rd, Delaplane, VA 20144",
       "latitude": 38.9342,
       "longitude": -77.9367,
       "phone": "+1-540-364-0221",
-      "website": "https://rdvvineyards.com",
+      "website": "https://lostmountainvineyards.com",
       "heroImageURL": null,
-      "vibeDescriptor": "Appointment-only Bordeaux-style cellar, widely regarded as Virginia's best producer.",
-      "editorial": "RdV is a proper appointment — you book a 90-minute tour, you taste through the Lost Mountain and Rendezvous (and a complimentary glass of Dom Perignon), you leave understanding why people compare Virginia to Bordeaux on its best days.",
+      "vibeDescriptor": "Appointment-only Bordeaux-style cellar (formerly RdV) — widely regarded as Virginia's best producer.",
+      "editorial": "Lost Mountain Vineyards is the new chapter of what was RdV Vineyards — same hillside in Delaplane, same Bordeaux-style ambition, new name. A proper appointment: book a ~90-minute experience, taste through the flagship blends, leave understanding why people compare Virginia to Bordeaux on its best days.",
       "attributes": [
         "reservationRequired",
         "greatView",
@@ -291,13 +291,13 @@
       ],
       "claimed": false,
       "policyNotes": [
-        "By appointment ONLY — no walk-ins; maximum 4 per party",
-        "Tours Thu–Sun at 11 AM, 1 PM, and 3 PM",
-        "Tasting includes food pairings by local Virginia artisans",
+        "Rebranded from RdV Vineyards in 2026 — same property, new name",
+        "By appointment ONLY — no walk-ins; reservations via Tock",
+        "Tasting Experience runs ~1.5 hours",
         "Hillside vineyard with Blue Ridge views",
         "Bordeaux-style blends; small boutique production"
       ],
-      "lastVerified": "2026-05-28",
+      "lastVerified": "2026-06-05",
       "dogPolicy": "notAllowed",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
