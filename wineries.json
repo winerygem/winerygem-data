@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-08T03:06:57Z",
-  "wineriesCount": 62,
+  "lastUpdated": "2026-06-11T12:00:00Z",
+  "wineriesCount": 80,
   "wineries": [
     {
       "id": "stonetower",
@@ -4633,6 +4633,1148 @@
       "fullDining": false,
       "reservationPolicy": "recommended",
       "familyPolicy": "dualZone"
+    },
+    {
+      "id": "effingham-manor",
+      "name": "Effingham Manor Winery",
+      "region": "Prince William County",
+      "address": "14325 Trotters Ridge Pl, Nokesville, VA 20181",
+      "latitude": 38.7215,
+      "longitude": -77.5834,
+      "phone": "+1-703-594-2300",
+      "website": "https://www.effinghammanor.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Upscale adults-only historic estate (circa 1767) with award-winning wines and chef's dinners.",
+      "editorial": "Effingham Manor sits on a historic 1767 estate in Prince William County — Virginia's oldest continuously occupied home. The tasting room enforces a strict 21+ policy with no exceptions. No dogs, no kids, no outside food. What you get is an intimate, grown-up wine experience with regular chef's dinners, food trucks, and ladies' nights. The wines are solid and have earned Governor's Cup recognition.",
+      "attributes": [
+        "adultsOnly",
+        "foodOnsite"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ ONLY — no persons under 21 permitted on the estate, no exceptions",
+        "No pets — historic property",
+        "No outside food or alcohol — Virginia ABC regulations",
+        "Walk-ins welcome, reservations recommended via Tock",
+        "Food trucks and chef's dinners on rotation",
+        "Open daily 11 AM – 6 PM"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "nokesville-winery",
+      "name": "Nokesville Winery",
+      "region": "Prince William County",
+      "address": "12905 Fitzwater Dr Suite 105, Nokesville, VA 20181",
+      "latitude": 38.7012,
+      "longitude": -77.5623,
+      "phone": "+1-703-330-3467",
+      "website": "https://nokesvillewinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Casual tasting room with trivia nights, fire pit patio, and community vibe.",
+      "editorial": "Nokesville Winery is more neighborhood hangout than fancy estate. Thursday trivia at 7 PM draws a crowd, and the patio with fire pit is the move on cooler evenings. No reservations needed — just show up. They'll host private events up to 40 guests in the processing area. Silver medal winner at the 2024 Virginia Governor's Cup.",
+      "attributes": [
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "16:00",
+          "close": "22:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "22:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "No reservations required",
+        "Thursday trivia nights at 7 PM",
+        "Patio with fire pit available",
+        "Private events up to 40 guests",
+        "Pets welcome outside on patio only",
+        "Closed Monday–Wednesday",
+        "2024 Virginia Governor's Cup Silver Medal winner"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "occasional",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "private-label-cellars",
+      "name": "Private Label Cellars",
+      "region": "Prince William County",
+      "address": "3704 Sanders Ln, Catharpin, VA 20143",
+      "latitude": 38.8456,
+      "longitude": -77.6312,
+      "phone": "+1-703-881-8288",
+      "website": "https://privatelabelcellars.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Boutique farm winery with hands-on winemaking experiences and tastings with the winemaker.",
+      "editorial": "Private Label Cellars opened in late 2024, helmed by veteran Virginia winemaker Ashton Lough. This is as boutique as it gets — Fri–Sat only, noon to 6 PM. The draw is direct access to the winemaker and hands-on experiences like punch-downs during harvest and cork-opening classes. Double silver at the 2025 Virginia Governor's Cup for the 2021 Chardonnay and 2023 Cabernet Franc.",
+      "attributes": [],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": null,
+          "close": null
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Open Friday & Saturday only, noon–6 PM",
+        "Reservations required for parties of 6+",
+        "Tastings with the winemaker",
+        "Hands-on experiences: punch-down, crush pad, cork class",
+        "2025 Virginia Governor's Cup double silver (Chardonnay, Cab Franc)",
+        "Opened October 2024"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "sunshine-ridge-farm",
+      "name": "The Winery at Sunshine Ridge Farm",
+      "region": "Prince William County",
+      "address": "15850 Sunshine Ridge Ln, Gainesville, VA 20155",
+      "latitude": 38.8023,
+      "longitude": -77.6178,
+      "phone": "+1-703-753-9500",
+      "website": "https://www.thewineryatsunshineridgefarms.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Lakeside winery and brewery on Lake Manassas with wraparound porch and pergola seating.",
+      "editorial": "Sunshine Ridge Farm overlooks Lake Manassas in Gainesville — one of the few lakeside winery settings in Northern Virginia. Both wine and beer on tap, plus multiple seating zones: plush couches inside, wraparound porch, and a pergola. Open late (until 9 PM Wed–Sat) and hosts private events and weddings. Part of the Steins, Vines & Moonshine Trail.",
+      "attributes": [
+        "greatView",
+        "foodOnsite"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Overlooking Lake Manassas",
+        "Wine and beer available",
+        "Reservations encouraged for indoor seating",
+        "Walk-ins welcome",
+        "Private events and weddings available",
+        "Part of the Steins, Vines & Moonshine Trail",
+        "Closed Tuesdays; open Mon & Sun noon–7 PM, Wed–Sat noon–9 PM"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "walsh-family-wine",
+      "name": "Walsh Family Wine",
+      "region": "Loudoun County",
+      "address": "16031 Hillsboro Rd, Purcellville, VA 20132",
+      "latitude": 39.1312,
+      "longitude": -77.7156,
+      "phone": "+1-540-668-6248",
+      "website": "https://www.walshfamilywine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Family-friendly estate winery with direct expression of Loudoun terroir.",
+      "editorial": "Walsh Family Wine took over the former North Gate Vineyard property and brought a family-friendly, approachable vibe. Open daily noon–6 (Fridays until 8), no reservations needed for small groups. The focus is on authentic Virginia wines that express their Loudoun County vineyard sites. Private events and weddings available.",
+      "attributes": [
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Open daily noon–6 PM, Fridays until 8 PM",
+        "Family-friendly atmosphere",
+        "Private events and weddings available",
+        "Wine club membership offered"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "sunset-hills-vineyard",
+      "name": "Sunset Hills Vineyard",
+      "region": "Loudoun County",
+      "address": "38295 Fremont Overlook Ln, Purcellville, VA 20132",
+      "latitude": 39.1089,
+      "longitude": -77.7423,
+      "phone": "+1-540-882-4560",
+      "website": "https://www.sunsethillsvineyard.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Former Amish farm with spectacular sunsets, mountain views, and a 21+ only policy.",
+      "editorial": "Sunset Hills occupies a former Amish farm with a restored barn surrounded by vineyards. The property enforces a strict 21+ policy — no exceptions, entire property. Dogs welcome outdoors on leash (decks, lawns, Stone Pavilion) but not inside. Outside food allowed on porches and lawn but not in tasting room. Late Saturday hours until 8 PM for sunset views.",
+      "attributes": [
+        "adultsOnly",
+        "greatView",
+        "dogFriendly",
+        "foodOnsite"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "21+ ONLY — entire property, no exceptions",
+        "Dogs welcome outdoors on leash (decks, lawns, Stone Pavilion)",
+        "No dogs inside except service animals",
+        "No outside food in tasting room — lite fare menu available",
+        "BYO picnic OK on porches, Stone Pavilion, lawn (no hot foods or large catered platters)",
+        "Groups of 13+ require reservations",
+        "Former Amish farm with restored barn"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": true,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "willowcroft-farm",
+      "name": "Willowcroft Farm Vineyards",
+      "region": "Loudoun County",
+      "address": "38906 Mt Gilead Rd, Leesburg, VA 20175",
+      "latitude": 39.0623,
+      "longitude": -77.6534,
+      "phone": "+1-703-777-8161",
+      "website": "https://willowcroftwine.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Loudoun's oldest winery atop Mt. Gilead with Blue Ridge views since 1981.",
+      "editorial": "Willowcroft is Loudoun County's OG — the first acre of vineyards planted in 1981, making it the oldest winery in the county. Perched atop Mt. Gilead with views of the distant Blue Ridge, it's a throwback to pre-boom Virginia wine. Open Thu–Sun with a no-frills tasting room approach.",
+      "attributes": [
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Loudoun County's oldest winery — first vines planted 1981",
+        "Open Thu–Sun (Mon some weeks)",
+        "Closed Tue & Wed",
+        "Blue Ridge mountain views from Mt. Gilead"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "hidden-brook-winery",
+      "name": "Hidden Brook Winery",
+      "region": "Loudoun County",
+      "address": "43301 Spinks Ferry Rd, Leesburg, VA 20176",
+      "latitude": 39.1534,
+      "longitude": -77.5423,
+      "phone": "+1-703-737-3935",
+      "website": "http://www.hiddenbrookwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Weekend-only boutique winery with intimate tastings in Leesburg.",
+      "editorial": "Hidden Brook keeps it simple — Saturdays and Sundays only, no reservations needed. A small boutique operation in Leesburg that closes early about once a month for private events, so check before you go. Low-key alternative to the bigger Loudoun producers.",
+      "attributes": [],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 6,
+          "open": "11:30",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Weekend only — Sat 11:30 AM–6 PM, Sun noon–5 PM",
+        "Closed Mon–Fri",
+        "May close early once/month for private events — call ahead",
+        "No reservations required"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "delaplane-cellars",
+      "name": "Delaplane Cellars",
+      "region": "Fauquier County",
+      "address": "2187 Winchester Rd, Delaplane, VA 20144",
+      "latitude": 38.9234,
+      "longitude": -77.9678,
+      "phone": "+1-540-364-6470",
+      "website": "https://www.delaplanecellars.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Intimate Fauquier winery with terrace seating and grass lawn for leashed dogs.",
+      "editorial": "Delaplane Cellars sits on Winchester Road in the heart of Fauquier wine country. Open daily with slightly longer hours Fri–Sun. Dogs welcome but only in outdoor grass areas — not on the terrace or patio. Reservations via Tock for larger groups.",
+      "attributes": [
+        "dogFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Open daily except Tue & Wed",
+        "Dogs welcome in outdoor grass areas only",
+        "No dogs on terrace, patio, or in tasting room",
+        "Reservations via Tock for groups"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "rdv-vineyards",
+      "name": "RdV Vineyards",
+      "region": "Fauquier County",
+      "address": "2550 Delaplane Grade Rd, Delaplane, VA 20144",
+      "latitude": 38.9312,
+      "longitude": -77.9534,
+      "phone": "+1-540-364-0221",
+      "website": "https://rdvvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Ultra-premium by-appointment-only estate producing Virginia's most acclaimed Bordeaux blends.",
+      "editorial": "RdV is Virginia's prestige play — Bordeaux-style blends that have earned national recognition and prices to match. Appointment only, no walk-ins, max party of 4. Open Thu–Sun. This is not a casual afternoon; it's a curated wine experience for serious enthusiasts willing to book ahead and pay up.",
+      "attributes": [],
+      "priceTier": "$$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "APPOINTMENT ONLY — no walk-ins",
+        "Max party size of 4",
+        "Open Thu–Sun 11 AM–5 PM",
+        "Reserve via website or phone",
+        "Ultra-premium Bordeaux-style wines",
+        "Virginia's most acclaimed winery"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "blue-valley-vineyard",
+      "name": "Blue Valley Vineyard and Winery",
+      "region": "Fauquier County",
+      "address": "5535 Blue Valley Way, Delaplane, VA 20144",
+      "latitude": 38.9156,
+      "longitude": -77.9812,
+      "phone": "+1-540-364-2347",
+      "website": "https://bluevalleyvineyardandwinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Family and dog friendly estate with rolling Fauquier hills and extended weekend hours.",
+      "editorial": "Blue Valley is the family-friendly play in Delaplane wine country. Dogs on leash? Welcome. Kids? Also welcome. Open daily with late Friday-Saturday hours until 7:30 PM. Wedding and event venue on the side. Easy atmosphere without the stuffiness of some neighboring estates.",
+      "attributes": [
+        "dogFriendly",
+        "familyFriendly",
+        "greatView"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "19:30"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "19:30"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Dog friendly — leashed dogs welcome on grounds",
+        "Child friendly",
+        "Open daily",
+        "Late hours Fri–Sat until 7:30 PM",
+        "Wedding and event venue available"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "withYou",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "narmada-winery",
+      "name": "Narmada Winery",
+      "region": "Rappahannock County",
+      "address": "43 Narmada Ln, Amissville, VA 20106",
+      "latitude": 38.6734,
+      "longitude": -78.0012,
+      "phone": "+1-540-937-8215",
+      "website": "https://narmadawinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Family-owned Rappahannock winery blending Virginia terroir with Indian heritage.",
+      "editorial": "Narmada brings a unique perspective to Virginia wine — founded by the Panicker family, the winery blends traditional winemaking with influences from India's Narmada River region. Open Thu–Mon, noon to 5 PM. Award-winning wines in a setting that feels more personal than corporate.",
+      "attributes": [],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Open Thu–Mon noon–5 PM",
+        "Closed Tue & Wed",
+        "Reservations available via website",
+        "Award-winning wines"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "pippin-hill-farm",
+      "name": "Pippin Hill Farm & Vineyards",
+      "region": "Monticello AVA",
+      "address": "5022 Plank Rd, North Garden, VA 22959",
+      "latitude": 37.9312,
+      "longitude": -78.6534,
+      "phone": "+1-434-202-8063",
+      "website": "https://www.pippinhillfarm.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Culinary-focused vineyard with farm-to-table dining and Blue Ridge views.",
+      "editorial": "Pippin Hill is the culinary destination on the Monticello Wine Trail — farm-to-table dining that rivals standalone restaurants, paired with estate wines. 20 minutes south of Charlottesville. Dogs welcome on leash on lawn and veranda. Reservations via Resy recommended for dining. Closed Mondays.",
+      "attributes": [
+        "foodOnsite",
+        "greatView",
+        "dogFriendly"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Closed Mondays",
+        "Reservations recommended via Resy",
+        "Dogs welcome on leash on lawn and veranda",
+        "Farm-to-table dining on site",
+        "20 minutes south of Charlottesville",
+        "Select evening hours Thu–Sat"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": "designatedAreaOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": true,
+      "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "afton-mountain-vineyards",
+      "name": "Afton Mountain Vineyards",
+      "region": "Nelson County",
+      "address": "234 Vineyard Ln, Afton, VA 22920",
+      "latitude": 37.9589,
+      "longitude": -78.8423,
+      "phone": "+1-540-456-8667",
+      "website": "https://www.aftonmountainvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Blue Ridge elevation winery on Route 151 with sweeping mountain views and on-site cottages.",
+      "editorial": "Afton Mountain is one of the anchor wineries on the Nelson 151 trail, perched at elevation with Blue Ridge views in every direction. Late Saturday hours until 7:30 PM for sunset chasers. Cottages on property for overnight stays. Check directly on dog policy — sources conflict.",
+      "attributes": [
+        "greatView",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "19:30"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Open Mon, Thu–Sun; closed Tue & Wed",
+        "Late hours Saturday until 7:30 PM",
+        "On-site cottages available for overnight stays",
+        "Part of Nelson 151 wine trail",
+        "Dog policy varies — contact to confirm"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "glass-house-winery",
+      "name": "Glass House Winery & Brewery",
+      "region": "Albemarle County",
+      "address": "5898 Free Union Rd, Free Union, VA 22940",
+      "latitude": 38.1523,
+      "longitude": -78.5789,
+      "phone": "+1-434-975-0094",
+      "website": "https://glasshousewinery.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Unique tropical greenhouse winery with chocolate pairings and a bed & breakfast.",
+      "editorial": "Glass House is the quirky outlier on the Monticello trail — a winery inside a tropical greenhouse, complete with chocolate pairings and exotic plants. Also brews beer. Bed & breakfast on property for overnighters. Minutes from Charlottesville in Free Union.",
+      "attributes": [
+        "foodOnsite"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "17:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Tropical greenhouse setting with exotic plants",
+        "Chocolate pairings available",
+        "Wine and beer on tap",
+        "Bed & breakfast on property",
+        "Minutes from Charlottesville"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "ducard-vineyards",
+      "name": "DuCard Vineyards",
+      "region": "Greene County",
+      "address": "40 Gibson Hollow Ln, Etlan, VA 22719",
+      "latitude": 38.5234,
+      "longitude": -78.3712,
+      "phone": "+1-540-923-4206",
+      "website": "https://ducardvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Mountain hollow winery with Friday night music and laid-back Greene County charm.",
+      "editorial": "DuCard sits in a hollow off Old Hollow Road in Greene County — a quieter corner of Virginia wine country. Open daily, with Friday nights featuring live music until 9 PM (May–October). Wintertime hours scale back to 6 PM Friday close. Good value wines, relaxed vibe.",
+      "attributes": [
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 2,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 4,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "21:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Open daily noon–5 PM (Mon–Thu), Sat–Sun until 6 PM",
+        "Friday nights until 9 PM with live music (May–October)",
+        "Winter Friday hours: noon–6 PM",
+        "Greene County location near Shenandoah"
+      ],
+      "lastVerified": "2026-06-11",
+      "dogPolicy": null,
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
     }
   ]
 }
