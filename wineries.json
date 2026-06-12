@@ -11691,7 +11691,7 @@
       "liveMusicCadence": null,
       "dualZoneAge": false,
       "fullDining": false,
-      "reservationPolicy": "walkInOnly",
+      "reservationPolicy": "notRequired",
       "familyPolicy": "familyFriendly"
     },
     {
