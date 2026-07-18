@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-07-18T12:00:00Z",
-  "wineriesCount": 152,
+  "lastUpdated": "2026-07-18T13:00:00Z",
+  "wineriesCount": 157,
   "wineries": [
     {
       "id": "stonetower",
@@ -10867,6 +10867,365 @@
       "dualZoneAge": false,
       "fullDining": false,
       "reservationPolicy": "recommended",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "slaterrun",
+      "name": "Slater Run Vineyards",
+      "region": "Fauquier County",
+      "address": "1500 Crenshaw Road, Upperville, VA 20184",
+      "latitude": 38.9556,
+      "longitude": -77.8789,
+      "phone": "+1-540-878-1476",
+      "website": "https://www.slaterrun.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "A quiet, unpretentious hidden gem in Hunt Country with sweeping vineyard views.",
+      "editorial": "A quiet, unpretentious hidden gem in Hunt Country. Bright and airy tasting room with rolling hill views. Known by locals while nearby wineries are crowded with tourists. Award-winning wines including white, amber, rose, sparkling, and red varietals. Curated cheese and charcuterie boards available.",
+      "attributes": [
+        "greatView",
+        "foodOnsite",
+        "liveMusic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Walk-ins welcome",
+        "No pets allowed - service animals only",
+        "Adults only (21+)"
+      ],
+      "lastVerified": "2026-07-18",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "seasonal",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "crimsonlane",
+      "name": "Crimson Lane Vineyards",
+      "region": "Fauquier County",
+      "address": "13334 Crimson Lane, Linden, VA 22642",
+      "latitude": 38.9234,
+      "longitude": -78.0567,
+      "phone": "+1-540-506-5062",
+      "website": "https://crimsonlanevineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Sophisticated elevated wine experience with spectacular Blue Ridge Mountain views.",
+      "editorial": "A sophisticated, elevated wine experience with stunning mountain vistas. Napa-designed architecture by Backen & Backen - the first East Coast building by the famed firm. Modern tasting room with South Porch panoramic views and East Porch swings overlooking vineyards. Reservation-only creates an exclusive, uncrowded feel.",
+      "attributes": [
+        "greatView"
+      ],
+      "priceTier": "$$$",
+      "byAppointmentOnly": true,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 6,
+          "open": "12:00",
+          "close": "17:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Reservations required - $10-20 deposit per person",
+        "Max party size of 6 guests",
+        "No pets allowed",
+        "Adults only (21+, no children or infants)"
+      ],
+      "lastVerified": "2026-07-18",
+      "dogPolicy": "notAllowed",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "required",
+      "familyPolicy": "adultsOnly"
+    },
+    {
+      "id": "oldfarmhartland",
+      "name": "Old Farm Winery at Hartland",
+      "region": "Loudoun County",
+      "address": "23583 Fleetwood Road, Aldie, VA 20105",
+      "latitude": 38.9723,
+      "longitude": -77.6234,
+      "phone": "+1-571-899-4380",
+      "website": "https://oldfarmwineryhartland.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Authentic working farm winery on 35 acres of preserved 18th-century farmland.",
+      "editorial": "An authentic working farm winery experience just an hour from DC. Super relaxed atmosphere with live music enhancing the ambiance. Tastings incorporate the history of the land and winemaking process. Beautiful restored 19th-century farmhouse and barn setting with abundant photo backdrops.",
+      "attributes": [
+        "greatView",
+        "liveMusic",
+        "dogFriendly",
+        "historic"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 2,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 3,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "19:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Walk-ins welcome for groups of 12 or fewer",
+        "Dog-friendly in designated outdoor areas (leashed)",
+        "Outside food/beverages not permitted"
+      ],
+      "lastVerified": "2026-07-18",
+      "dogPolicy": "outsideOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "endhardt",
+      "name": "Endhardt Vineyards",
+      "region": "Loudoun County",
+      "address": "19600 Lincoln Road, Purcellville, VA 20132",
+      "latitude": 39.1345,
+      "longitude": -77.7123,
+      "phone": null,
+      "website": "https://www.endhardtvineyards.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Small intimate farm-style winery with award-winning wines and stunning vineyard views.",
+      "editorial": "A small, intimate farm-style winery without the hype or pretension of larger venues. Family-owned by Sarah and Johannes Endhardt. Quiet and uncrowded with idyllic rolling hills. 46 acres with 11 acres of vines. 3 gold medals at 2025 VA Governor's Cup. Modern tasting room with covered patio and large outdoor seating overlooking a pond.",
+      "attributes": [
+        "greatView",
+        "bringYourOwnFood",
+        "dogFriendly",
+        "familyFriendly"
+      ],
+      "priceTier": "$$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "12:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": "14:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 5,
+          "open": "14:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 6,
+          "open": "14:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 7,
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Walk-ins welcome",
+        "Dog-friendly outdoors",
+        "Guests can bring their own food",
+        "Families with children welcome"
+      ],
+      "lastVerified": "2026-07-18",
+      "dogPolicy": "outsideOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": null,
+      "dualZoneAge": false,
+      "fullDining": false,
+      "reservationPolicy": "notRequired",
+      "familyPolicy": "familyFriendly"
+    },
+    {
+      "id": "quattrogoombas",
+      "name": "Quattro Goombas Winery",
+      "region": "Loudoun County",
+      "address": "22860 James Monroe Highway, Aldie, VA 20105",
+      "latitude": 38.9678,
+      "longitude": -77.6456,
+      "phone": "+1-703-327-6052",
+      "website": "https://www.quattrogoombas.com",
+      "heroImageURL": null,
+      "vibeDescriptor": "Fun casual winery-brewery combo famous for Sicilian-style pizza and live music.",
+      "editorial": "A fun, casual, pet-friendly destination where wine, craft beer, and famous Sicilian pizza come together. \"Quattro Goombas\" means \"4 friends\" in Italian. Multiple buildings house the winery, brewery, and pizza shop including a converted horse barn. Very social atmosphere with live music Fridays and Saturdays.",
+      "attributes": [
+        "foodOnsite",
+        "liveMusic",
+        "dogFriendly",
+        "familyFriendly"
+      ],
+      "priceTier": "$",
+      "byAppointmentOnly": false,
+      "hours": [
+        {
+          "weekday": 1,
+          "open": "11:00",
+          "close": "18:00"
+        },
+        {
+          "weekday": 2,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 3,
+          "open": null,
+          "close": null
+        },
+        {
+          "weekday": 4,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 5,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 6,
+          "open": "11:00",
+          "close": "20:00"
+        },
+        {
+          "weekday": 7,
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "claimed": false,
+      "policyNotes": [
+        "Walk-ins welcome",
+        "Dog-friendly outdoors (leashed)",
+        "Live music Fri 5-8pm, Sat 2-5pm",
+        "Trivia Thursdays"
+      ],
+      "lastVerified": "2026-07-18",
+      "dogPolicy": "outsideOnly",
+      "byoOutdoorsOnly": null,
+      "liveMusicCadence": "weekly",
+      "dualZoneAge": false,
+      "fullDining": true,
+      "reservationPolicy": "notRequired",
       "familyPolicy": "familyFriendly"
     }
   ]
