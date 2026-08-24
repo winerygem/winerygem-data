@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-08-05T23:55:20.624717Z",
+  "lastUpdated": "2026-08-24T22:45:00.000000Z",
   "wineriesCount": 303,
   "wineries": [
     {
@@ -5216,7 +5216,7 @@
       "vibeDescriptor": "Ultra-premium by-appointment-only estate producing Virginia's most acclaimed Bordeaux blends.",
       "editorial": "RdV is Virginia's prestige play \u2014 Bordeaux-style blends that have earned national recognition and prices to match. Appointment only, no walk-ins, max party of 4. Open Thu\u2013Sun. This is not a casual afternoon; it's a curated wine experience for serious enthusiasts willing to book ahead and pay up.",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": true,
       "hours": [
         {
@@ -5763,7 +5763,7 @@
         "Well-behaved dogs welcome on patios. Only service dogs allowed inside. Mention your dog when making reservations."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -5901,7 +5901,7 @@
         "Dogs allowed on patio and wine tasting lounge. Not allowed on winery tours. Service dogs permitted everywhere."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -5992,7 +5992,7 @@
       "vibeDescriptor": "The pinnacle of luxury wine tasting in Napa Valley.",
       "editorial": "The pinnacle of luxury wine tasting in Napa Valley. This joint venture between Mondavi and Rothschild offers an exclusive, refined experience with stunning architecture and valley vistas. Jazz music accompanies tastings of current vintage and library selections. The Partners' Room offers breathtaking views surrounded by beautiful art. Elegant, prestigious, and memorable.",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": true,
       "hours": [
         {
@@ -6177,7 +6177,7 @@
         "Dogs not allowed in interior spaces. Welcome on outdoor terrace with wines."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -6314,7 +6314,7 @@
         "Dogs welcome on grounds and self-guided tours. Not allowed on guided tours. May have restrictions in tasting room/gift shop."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -6586,7 +6586,7 @@
         "Dogs welcome in outdoor picnic spaces if leashed and well-behaved. Not allowed in tasting rooms."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -6678,7 +6678,7 @@
       "attributes": [
         "historic"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": true,
       "hours": [
         {
@@ -6933,7 +6933,7 @@
         "Pets welcome on grounds (leashed), but not allowed during seated tasting experiences"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7095,7 +7095,7 @@
         "foodOnsite",
         "greatView"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": true,
       "hours": [
         {
@@ -7278,7 +7278,7 @@
         "Well-behaved leashed dogs welcome (one per reservation) in Kinneybrook Room tastings. No pets on cave tours."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7622,7 +7622,7 @@
         "Dogs welcome in outdoor areas only, must remain leashed. Service dogs only on Culinary Tours."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7692,7 +7692,7 @@
         "Well-behaved leashed dogs welcome on Terrace and Green areas. Not permitted inside Tasting Room or at winery events/concerts."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7761,7 +7761,7 @@
         "Service animals permitted throughout. Other dogs must remain leashed and under owner's control at all times."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7785,7 +7785,7 @@
         "greatView",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": true,
       "hours": [
         {
@@ -7830,7 +7830,7 @@
         "Non-service animals allowed on patio during season"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7900,7 +7900,7 @@
         "Friendly, well-trained dogs welcome on leash on patio only"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -7971,7 +7971,7 @@
         "Friendly dogs on leashes welcome in outdoor spaces. Service animals welcome inside tasting room."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8043,7 +8043,7 @@
         "Dogs on leash welcome on patio and lawn spaces. No pets inside tasting room except service animals."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8112,7 +8112,7 @@
         "Dog-friendly in designated outdoor areas"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8181,7 +8181,7 @@
         "Well-behaved, leashed dogs welcome on outdoor patio. Service dogs permitted throughout property."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8207,7 +8207,7 @@
         "sustainable",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -8252,7 +8252,7 @@
         "Well-behaved dogs welcome on lower terrace. Must remain on leash and under physical control."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8391,7 +8391,7 @@
         "Dogs welcome on Pinot Decks and adjacent lawns. No pets in tasting room except service animals."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8600,7 +8600,7 @@
         "Well-behaved dogs welcome outside on leash"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8741,7 +8741,7 @@
         "Dogs are part of the Penner-Ash family. Furry companions must remain on leash in outdoor spaces like the patio."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8767,7 +8767,7 @@
         "sustainable",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -8812,7 +8812,7 @@
         "Dogs on leashes welcome in outside areas only. Estate water and pup treats available."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -8969,7 +8969,7 @@
       "vibeDescriptor": "An exclusive, appointment-only estate winery founded by NFL legend Drew Bledsoe.",
       "editorial": "An exclusive, appointment-only estate winery founded by NFL legend Drew Bledsoe. The focus is on world-class Cabernet Sauvignon from estate vineyards. The experience feels private and prestigious, catering primarily to mailing list members seeking premium, allocated wines.",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": true,
       "hours": [
         {
@@ -9035,7 +9035,7 @@
       "vibeDescriptor": "The original Walla Walla cult winery and a true legend.",
       "editorial": "The original Walla Walla cult winery and a true legend. Leonetti does not offer public tastings - wines are available exclusively through their coveted mailing list with a 3-4 year waiting list. Members receive one annual visit opportunity during Spring Release Weekend. This is Washington wine royalty.",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -9891,7 +9891,7 @@
         "Dogs welcome on outdoor lawn areas. Service animals always permitted per ADA."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -10169,7 +10169,7 @@
         "Dogs welcome at outdoor patio seating at Geneva location. Donkeys on property fun for kids."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -10240,7 +10240,7 @@
         "Due to Food Modernization Act, only service animals inside (open production areas). Leashed dogs welcome on the lawn."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -10309,7 +10309,7 @@
         "Leashed, well-behaved pets permitted at outside tables only."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -10587,7 +10587,7 @@
         "Pets welcome Monday through Friday only. No pets on Saturdays and Sundays."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -10657,7 +10657,7 @@
         "Dogs welcome on lawn area among vines, must be leashed. Not permitted indoors or on covered deck due to health regulations."
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -11074,7 +11074,7 @@
         "Outside food/beverages not permitted"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": "weekly",
       "dualZoneAge": false,
@@ -11147,7 +11147,7 @@
         "Families with children welcome"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": null,
       "dualZoneAge": false,
@@ -11220,7 +11220,7 @@
         "Trivia Thursdays"
       ],
       "lastVerified": "2026-07-18",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "byoOutdoorsOnly": null,
       "liveMusicCadence": "weekly",
       "dualZoneAge": false,
@@ -11233,8 +11233,8 @@
       "name": "Afton Mountain Vineyards",
       "region": "Monticello AVA",
       "address": "234 Vineyard Lane, Afton, VA 22920",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.9589,
+      "longitude": -78.8423,
       "phone": "(540) 456-8667",
       "website": "https://www.aftonmountainvineyards.com",
       "heroImageURL": null,
@@ -11299,8 +11299,8 @@
       "name": "Jefferson Vineyards",
       "region": "Monticello AVA",
       "address": "1353 Thomas Jefferson Parkway, Charlottesville, VA 22902",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.99,
+      "longitude": -78.4473,
       "phone": "(434) 977-3042",
       "website": "https://www.jeffersonvineyards.com",
       "heroImageURL": null,
@@ -11357,7 +11357,7 @@
         "Walk-ins welcome. Groups up to 10."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -11365,8 +11365,8 @@
       "name": "Pollak Vineyards",
       "region": "Monticello AVA",
       "address": "330 Newtown Road, Greenwood, VA 22943",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.0526,
+      "longitude": -78.757,
       "phone": "(540) 456-8844",
       "website": "https://www.pollakvineyards.com",
       "heroImageURL": null,
@@ -11422,7 +11422,7 @@
         "Walk-ins welcome. Reservations for groups of 6-12."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -11430,8 +11430,8 @@
       "name": "Michael Shaps Wineworks",
       "region": "Monticello AVA",
       "address": "1650 Harris Creek Way, Charlottesville, VA 22902",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.9683,
+      "longitude": -78.4625,
       "phone": "(434) 296-3438",
       "website": "https://www.virginiawineworks.com",
       "heroImageURL": null,
@@ -11487,7 +11487,7 @@
         "Walk-ins welcome. Reservations for groups of 8+."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -11559,8 +11559,8 @@
       "name": "Grace Estate Winery",
       "region": "Monticello AVA",
       "address": "5273 Mount Juliet Farm Road, Crozet, VA 22932",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.1144,
+      "longitude": -78.6669,
       "phone": "(434) 823-1486",
       "website": "https://www.graceestatewinery.com",
       "heroImageURL": null,
@@ -11617,7 +11617,7 @@
         "Walk-ins welcome. Reservations for groups of 10+."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -11691,8 +11691,8 @@
       "name": "Mountain & Vine Vineyards",
       "region": "Monticello AVA",
       "address": "500 DelFosse Winery Lane, Faber, VA 22938",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.8315,
+      "longitude": -78.7371,
       "phone": "(434) 263-6100",
       "website": "https://www.mountainandvine.com",
       "heroImageURL": null,
@@ -11757,8 +11757,8 @@
       "name": "Moss Vineyards",
       "region": "Monticello AVA",
       "address": "1849 Moss Vineyards Lane, Nortonsville, VA 22935",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.2374,
+      "longitude": -78.5481,
       "phone": "(434) 990-0111",
       "website": "https://www.mossvineyards.net",
       "heroImageURL": null,
@@ -11814,7 +11814,7 @@
         "Walk-ins welcome."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -11822,8 +11822,8 @@
       "name": "Hark Vineyards",
       "region": "Monticello AVA",
       "address": "1465 Davis Shop Road, Earlysville, VA 22936",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.1576,
+      "longitude": -78.4828,
       "phone": "(434) 964-9463",
       "website": "https://harkvineyards.com",
       "heroImageURL": null,
@@ -11880,7 +11880,7 @@
         "Walk-ins welcome. Groups of 7+ must confirm in advance."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -11888,8 +11888,8 @@
       "name": "Eastwood Farm and Winery",
       "region": "Monticello AVA",
       "address": "2531 Scottsville Road, Charlottesville, VA 22902",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.0293,
+      "longitude": -78.4767,
       "phone": "(434) 264-6727",
       "website": "https://eastwoodfarmandwinery.com",
       "heroImageURL": null,
@@ -11946,7 +11946,7 @@
         "Walk-ins welcome. Reservations available."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12078,7 +12078,7 @@
         "Reservations available. Walk-in seating first-come first-served."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12086,8 +12086,8 @@
       "name": "Bluestone Vineyard",
       "region": "Shenandoah Valley",
       "address": "4828 Spring Creek Road, Bridgewater, VA 22812",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.385,
+      "longitude": -78.973,
       "phone": "(540) 828-0099",
       "website": "https://bluestonevineyard.com",
       "heroImageURL": null,
@@ -12209,7 +12209,7 @@
         "Walk-ins welcome; reservations requested for groups of 8+"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12217,8 +12217,8 @@
       "name": "Shenandoah Vineyards",
       "region": "Shenandoah Valley",
       "address": "3659 S. Ox Road, Edinburg, VA 22824",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.8209,
+      "longitude": -78.5658,
       "phone": "(540) 984-8699",
       "website": "https://www.shenandoahvineyardsva.com",
       "heroImageURL": null,
@@ -12273,7 +12273,7 @@
         "Walk-ins welcome; call ahead for groups of 6+"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12281,8 +12281,8 @@
       "name": "Muse Vineyards",
       "region": "Shenandoah Valley",
       "address": "16 Serendipity Lane, Woodstock, VA 22664",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.8569,
+      "longitude": -78.5025,
       "phone": "(540) 459-7033",
       "website": "https://musevineyards.com",
       "heroImageURL": null,
@@ -12339,7 +12339,7 @@
         "Reservations recommended"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "recommended"
     },
     {
@@ -12347,8 +12347,8 @@
       "name": "Veramar Vineyard",
       "region": "Shenandoah Valley",
       "address": "905 Quarry Road, Berryville, VA 22611",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 39.1518,
+      "longitude": -77.9825,
       "phone": "(540) 955-5510",
       "website": "https://veramar.com",
       "heroImageURL": null,
@@ -12413,8 +12413,8 @@
       "name": "The Winery at Kindred Pointe",
       "region": "Shenandoah Valley",
       "address": "3575 Conicville Road, Mount Jackson, VA 22842",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.7459,
+      "longitude": -78.6422,
       "phone": "(540) 477-3570",
       "website": "https://www.kindredpointe.com",
       "heroImageURL": null,
@@ -12541,8 +12541,8 @@
       "name": "Wolf Gap Vineyard & Winery",
       "region": "Shenandoah Valley",
       "address": "123 Stout Road, Edinburg, VA 22824",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.8209,
+      "longitude": -78.5658,
       "phone": "(540) 984-3306",
       "website": "https://wolfgapvineyard.com",
       "heroImageURL": null,
@@ -12600,7 +12600,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12666,7 +12666,7 @@
         "No reservations needed"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12731,7 +12731,7 @@
         "No reservation needed for groups of 6 or less"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12739,8 +12739,8 @@
       "name": "Star in the Valley Estate Winery",
       "region": "Shenandoah Valley",
       "address": "33 Amos Lane, Strasburg, VA 22657",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 39.0334,
+      "longitude": -78.4139,
       "phone": "(540) 514-1687",
       "website": "https://www.starinthevalley.com",
       "heroImageURL": null,
@@ -12796,7 +12796,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12862,7 +12862,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -12870,8 +12870,8 @@
       "name": "Cardinal Point Vineyard & Winery",
       "region": "Nelson County",
       "address": "9423 Batesville Road, Afton, VA 22920",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.0324,
+      "longitude": -78.8392,
       "phone": "(540) 456-8400",
       "website": "https://www.cardinalpointwinery.com",
       "heroImageURL": null,
@@ -12951,7 +12951,7 @@
         "dogFriendly",
         "familyFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -12996,7 +12996,7 @@
         "Walk-ins welcome; required for parties of 8+"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -13004,8 +13004,8 @@
       "name": "Hill Top Berry Farm, Winery & Meadery",
       "region": "Nelson County",
       "address": "2800 Berry Hill Road, Nellysford, VA 22958",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.8904,
+      "longitude": -78.8722,
       "phone": "(434) 361-1266",
       "website": "https://www.hilltopberrywine.com",
       "heroImageURL": null,
@@ -13061,7 +13061,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13069,8 +13069,8 @@
       "name": "Hazy Mountain Vineyards & Brewery",
       "region": "Nelson County",
       "address": "240 Hazy Mountain Lane, Afton, VA 22920",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.0324,
+      "longitude": -78.8392,
       "phone": "(540) 302-2529",
       "website": "https://www.hazy-mountain.com",
       "heroImageURL": null,
@@ -13128,7 +13128,7 @@
         "Walk-ins welcome; reservations recommended; required for groups exceeding 14"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -13136,8 +13136,8 @@
       "name": "12 Ridges Vineyard",
       "region": "Nelson County",
       "address": "24981 Blue Ridge Parkway, Vesuvius, VA 24483",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.9062,
+      "longitude": -79.1973,
       "phone": "(434) 996-4252",
       "website": "https://www.12ridges.com",
       "heroImageURL": null,
@@ -13193,7 +13193,7 @@
         "Walk-ins welcome; reservations for groups of 10+"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13259,7 +13259,7 @@
         "Walk-ins welcome. Reservations required for groups of 7+."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -13326,7 +13326,7 @@
         "Walk-ins welcome; reservations via Exploretock"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13334,8 +13334,8 @@
       "name": "The Barns at Hamilton Station Vineyards",
       "region": "Loudoun County",
       "address": "16804 Hamilton Station Road, Hamilton, VA 20158",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 39.1343,
+      "longitude": -77.6625,
       "phone": "(540) 338-5309",
       "website": "https://www.thebarnsathamiltonstation.com/",
       "heroImageURL": null,
@@ -13392,7 +13392,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13400,8 +13400,8 @@
       "name": "Tranquility Farm & Winery",
       "region": "Loudoun County",
       "address": "18050 Tranquility Road, Purcellville, VA 20132",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 39.1367,
+      "longitude": -77.7148,
       "phone": "(540) 338-2027",
       "website": "https://www.tranquilityfarm.com/",
       "heroImageURL": null,
@@ -13457,7 +13457,7 @@
         "Required. Book through Exploretock."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -13522,7 +13522,7 @@
         "Walk-ins welcome on first-come basis"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13530,8 +13530,8 @@
       "name": "Creek's Edge Winery",
       "region": "Loudoun County",
       "address": "41255 Annas Lane, Lovettsville, VA 20180",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 39.2748,
+      "longitude": -77.6393,
       "phone": "(540) 822-3825",
       "website": "https://creeksedgewinery.com/",
       "heroImageURL": null,
@@ -13589,7 +13589,7 @@
         "Walk-ins welcome. Parties of 10+ should call."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13597,8 +13597,8 @@
       "name": "Domaine Fortier Vineyards",
       "region": "Loudoun County",
       "address": "13235 Milltown Road, Lovettsville, VA 20180",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 39.2748,
+      "longitude": -77.6393,
       "phone": "(703) 870-1225",
       "website": "https://domainefortier.com/",
       "heroImageURL": null,
@@ -13654,7 +13654,7 @@
         "Contact winery for details"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13662,8 +13662,8 @@
       "name": "Boxwood Estate Winery",
       "region": "Loudoun County",
       "address": "2042 Burrland Lane, Middleburg, VA 20117",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.9676,
+      "longitude": -77.7361,
       "phone": "(540) 687-8778",
       "website": "https://boxwoodwinery.com/",
       "heroImageURL": null,
@@ -13725,8 +13725,8 @@
       "name": "Mediterranean Cellars",
       "region": "Fauquier County",
       "address": "8295 Falcon Glen Road, Warrenton, VA 20186",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.7135,
+      "longitude": -77.7954,
       "phone": "(540) 428-1984",
       "website": "https://www.mediterraneancellars.com/",
       "heroImageURL": null,
@@ -13784,7 +13784,7 @@
         "Walk-ins welcome."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13851,7 +13851,7 @@
         "Walk-ins welcome for small groups at the tasting bar. Reservations recommended for large groups. Contact venue coordinator at 540-729-2763."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "recommended"
     },
     {
@@ -13859,8 +13859,8 @@
       "name": "Vint Hill Craft Winery",
       "region": "Fauquier County",
       "address": "7150 Lineweaver Road, Warrenton, VA 20187",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.7429,
+      "longitude": -77.6758,
       "phone": "(540) 351-0000",
       "website": "https://www.vinthillcraftwinery.com/",
       "heroImageURL": null,
@@ -13870,7 +13870,7 @@
         "familyFriendly",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -13916,7 +13916,7 @@
         "Walk-ins welcome on first-come, first-served basis. Reservations guarantee seating. Required for groups of 8+. Call 540-351-0000."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -13982,7 +13982,7 @@
         "Walk-ins welcome for groups of 8 or less. Groups of 8+ must email for reservation. Groups of 20+ contact for special pricing."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -13990,8 +13990,8 @@
       "name": "Arterra Wines",
       "region": "Fauquier County",
       "address": "1808 Leeds Manor Road, Delaplane, VA 20144",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.9153,
+      "longitude": -77.9204,
       "phone": "(540) 422-3443",
       "website": "https://www.arterrawines.com/",
       "heroImageURL": null,
@@ -14047,7 +14047,7 @@
         "Tuesday & Wednesday require approved reservation via email. Groups over 8 require approved reservation with $24/person minimum spend."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -14068,7 +14068,7 @@
         "familyFriendly",
         "foodOnsite"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -14114,7 +14114,7 @@
         "Walk-ins welcome. Call ahead for special experiences like wine overlooking the Rappahannock River."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -14180,7 +14180,7 @@
         "Walk-ins welcome. Reservations highly recommended for weekend seating."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "recommended"
     },
     {
@@ -14188,8 +14188,8 @@
       "name": "Good Luck Cellars",
       "region": "Northern Neck",
       "address": "1025 Good Luck Road, Kilmarnock, VA, 22482",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.7105,
+      "longitude": -76.3797,
       "phone": "(804) 435-1416",
       "website": "https://www.goodluckcellars.com",
       "heroImageURL": null,
@@ -14245,7 +14245,7 @@
         "Walk-ins welcome; tables first-come-first-served. Groups of 8+ should call ahead."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14310,7 +14310,7 @@
         "Appointments required Monday-Thursday. Walk-ins welcome Friday-Sunday."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14318,8 +14318,8 @@
       "name": "General's Ridge Vineyard",
       "region": "Northern Neck",
       "address": "1618 Weldons Drive, Hague, VA, 22469",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.0724,
+      "longitude": -76.6511,
       "phone": "(804) 472-3172",
       "website": "https://www.generalsridgevineyard.com",
       "heroImageURL": null,
@@ -14376,7 +14376,7 @@
         "Walk-ins welcome during regular hours. Lodging reservations require advance booking."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14384,8 +14384,8 @@
       "name": "Jacey Vineyards",
       "region": "Northern Neck",
       "address": "619 Train Lane, Wicomico Church, VA, 22579",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.8001,
+      "longitude": -76.3364,
       "phone": "(804) 580-4053",
       "website": "https://www.jaceyvineyard.com",
       "heroImageURL": null,
@@ -14441,7 +14441,7 @@
         "Walk-ins welcome on Saturdays during operating hours."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14507,7 +14507,7 @@
         "Weekday tastings by appointment only. Weekend walk-ins welcome during posted hours."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14572,7 +14572,7 @@
         "Walk-ins appear welcomed during operating hours."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14580,8 +14580,8 @@
       "name": "Monroe Bay Winery",
       "region": "Northern Neck",
       "address": "4786 James Monroe Highway, Colonial Beach, VA, 22443",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.2513,
+      "longitude": -76.9628,
       "phone": "(804) 410-5628",
       "website": "https://www.monroebaywine.com",
       "heroImageURL": null,
@@ -14636,7 +14636,7 @@
         "Walk-ins welcome. Groups of 10+ or private events require advance contact."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -14707,9 +14707,9 @@
       "id": "mermaid",
       "name": "Mermaid Winery",
       "region": "Hampton Roads",
-      "address": "",
-      "latitude": null,
-      "longitude": null,
+      "address": "4401 Shore Drive, Virginia Beach, VA 23455",
+      "latitude": 36.9045,
+      "longitude": -76.1244,
       "phone": "(757) 233-4155",
       "website": "https://www.mermaidwinery.com",
       "heroImageURL": null,
@@ -14761,10 +14761,11 @@
       "claimed": false,
       "policyNotes": [
         "Dogs welcome on outdoor patios. Pet-friendly with special menu items and treats for dogs.",
-        "American cuisine with full lunch and dinner service."
+        "American cuisine with full lunch and dinner service.",
+        "Second location: 101 Granby Street, Norfolk, VA 23510"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -14828,7 +14829,7 @@
         "Outside food and drinks prohibited. Menu available on-site."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -14892,7 +14893,7 @@
         "Outside food welcome (no outside alcohol per Virginia ABC regulations)."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -14900,8 +14901,8 @@
       "name": "Saude Creek Vineyards",
       "region": "Hampton Roads",
       "address": "16230 Cooks Mill Road, Lanexa, VA 23089",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 37.4238,
+      "longitude": -76.9011,
       "phone": "(804) 966-5896",
       "website": "https://www.saudecreek.com",
       "heroImageURL": null,
@@ -14957,7 +14958,7 @@
         "Outside picnics welcome. Large coolers and foldout tables not allowed. Non-alcoholic beverages may be brought in. No outside alcohol."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     },
     {
@@ -15023,7 +15024,7 @@
         "Walk-ins welcome; reservations encouraged to guarantee a spot. Restaurant reservations recommended 7 days in advance."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15031,8 +15032,8 @@
       "name": "Villa Appalaccia Winery",
       "region": "Southwest Virginia",
       "address": "752 Rock Castle Gorge Road, Floyd, VA, 24091",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 36.7985,
+      "longitude": -80.3739,
       "phone": "(540) 593-3100",
       "website": "https://www.villaappalaccia.com",
       "heroImageURL": null,
@@ -15089,7 +15090,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15156,7 +15157,7 @@
         "Walk-ins welcome. Reservations recommended for special events and large groups."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15164,8 +15165,8 @@
       "name": "West Wind Farm Vineyard & Winery",
       "region": "Southwest Virginia",
       "address": "2228 Fort Chiswell Road, Max Meadows, VA, 24360",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 36.9717,
+      "longitude": -80.9504,
       "phone": "(276) 699-2020",
       "website": "http://westwindwine.com",
       "heroImageURL": null,
@@ -15222,7 +15223,7 @@
         "Walk-ins welcome"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15286,7 +15287,7 @@
         "Reservations recommended for groups of 6+. Time slots limited to 1 hour 30 minutes. Last call 30 minutes before closing."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15351,7 +15352,7 @@
         "Appointment recommended, especially outside weekend hours. Contact directly to schedule."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15359,8 +15360,8 @@
       "name": "Iron Heart Winery",
       "region": "Southwest Virginia",
       "address": "3742 Boone Furnace Road, Allisonia, VA, 24347",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 36.9393,
+      "longitude": -80.7362,
       "phone": "(540) 320-0203",
       "website": "https://iheartvirginiawine.com",
       "heroImageURL": null,
@@ -15416,7 +15417,7 @@
         "Walk-ins welcome on weekends; call ahead for special requests or large groups"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -15424,8 +15425,8 @@
       "name": "Eleven Eleven Wines",
       "region": "Napa Valley",
       "address": "620 Trancas Street, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3249,
+      "longitude": -122.2857,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15484,8 +15485,8 @@
       "name": "Trefethen Family Vineyards",
       "region": "Napa Valley",
       "address": "1160 Oak Knoll Avenue, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3548,
+      "longitude": -122.3263,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15544,8 +15545,8 @@
       "name": "Salvestrin Winery",
       "region": "Napa Valley",
       "address": "397 Main Street, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4976,
+      "longitude": -122.4602,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15604,8 +15605,8 @@
       "name": "Sequoia Grove Winery",
       "region": "Napa Valley",
       "address": "8338 St Helena Highway, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4485,
+      "longitude": -122.4133,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15664,8 +15665,8 @@
       "name": "Tamber Bey Vineyards",
       "region": "Napa Valley",
       "address": "1251 Tubbs Lane, Calistoga, CA 94515",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5788,
+      "longitude": -122.5797,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15725,8 +15726,8 @@
       "name": "Jessup Cellars",
       "region": "Napa Valley",
       "address": "6740 Washington Street, Yountville, CA 94599",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.406,
+      "longitude": -122.3663,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15785,8 +15786,8 @@
       "name": "Tres Sabores Winery",
       "region": "Napa Valley",
       "address": "1620 South Whitehall Lane, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5052,
+      "longitude": -122.47,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15845,8 +15846,8 @@
       "name": "Chimney Rock Winery",
       "region": "Napa Valley",
       "address": "5350 Silverado Trail, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3817,
+      "longitude": -122.311,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15903,8 +15904,8 @@
       "name": "Honig Vineyard & Winery",
       "region": "Napa Valley",
       "address": "850 Rutherford Road, Rutherford, CA 94573",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4612,
+      "longitude": -122.4186,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -15961,8 +15962,8 @@
       "name": "Frog's Leap Winery",
       "region": "Napa Valley",
       "address": "8815 Conn Creek Road, Rutherford, CA 94573",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4746,
+      "longitude": -122.4028,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16019,8 +16020,8 @@
       "name": "St. Supery Estate Vineyards & Winery",
       "region": "Napa Valley",
       "address": "8440 St Helena Highway, Rutherford, CA 94573",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.453,
+      "longitude": -122.4173,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16079,8 +16080,8 @@
       "name": "HALL Wines - St. Helena",
       "region": "Napa Valley",
       "address": "401 St Helena Highway South, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.489,
+      "longitude": -122.4531,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16139,8 +16140,8 @@
       "name": "Rutherford Hill Winery",
       "region": "Napa Valley",
       "address": "200 Rutherford Hill Road, Rutherford, CA 94573",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4937,
+      "longitude": -122.4038,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16200,8 +16201,8 @@
       "name": "Pride Mountain Vineyards",
       "region": "Napa Valley",
       "address": "4026 Spring Mountain Road, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5069,
+      "longitude": -122.4874,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16260,8 +16261,8 @@
       "name": "Frank Family Vineyards",
       "region": "Napa Valley",
       "address": "1091 Larkmead Lane, Calistoga, CA 94515",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5788,
+      "longitude": -122.5797,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16320,8 +16321,8 @@
       "name": "Grgich Hills Estate",
       "region": "Napa Valley",
       "address": "1829 St Helena Highway, Rutherford, CA 94573",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4632,
+      "longitude": -122.4262,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16380,8 +16381,8 @@
       "name": "Hess Persson Estates (The Hess Collection)",
       "region": "Napa Valley",
       "address": "4411 Redwood Road, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3383,
+      "longitude": -122.3902,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16441,8 +16442,8 @@
       "name": "Laird Family Estate",
       "region": "Napa Valley",
       "address": "5055 Solano Avenue, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3563,
+      "longitude": -122.3339,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16501,8 +16502,8 @@
       "name": "Paloma Vineyard",
       "region": "Napa Valley",
       "address": "4013 Spring Mountain Road, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5069,
+      "longitude": -122.4874,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16561,8 +16562,8 @@
       "name": "Etude Wines",
       "region": "Napa Valley",
       "address": "1250 Cuttings Wharf Road, Napa, CA 94559",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.2458,
+      "longitude": -122.3177,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16619,8 +16620,8 @@
       "name": "Bennett Lane Winery",
       "region": "Napa Valley",
       "address": "3340 State Highway 128, Calistoga, CA 94515",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6,
+      "longitude": -122.6152,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16677,8 +16678,8 @@
       "name": "Reynolds Family Winery",
       "region": "Napa Valley",
       "address": "3266 Silverado Trail, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3483,
+      "longitude": -122.2834,
       "phone": "",
       "website": "",
       "heroImageURL": null,
@@ -16737,8 +16738,8 @@
       "name": "Gary Farrell Vineyards & Winery",
       "region": "Sonoma County",
       "address": "10701 Westside Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5189,
+      "longitude": -122.9303,
       "phone": "(707) 473-2909",
       "website": "https://www.garyfarrellwinery.com",
       "heroImageURL": null,
@@ -16747,7 +16748,7 @@
       "attributes": [
         "greatView"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -16799,8 +16800,8 @@
       "name": "J. Rochioli Vineyards & Winery",
       "region": "Sonoma County",
       "address": "6192 Westside Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5352,
+      "longitude": -122.8673,
       "phone": "(707) 433-2305",
       "website": "https://www.rochioliwinery.com",
       "heroImageURL": null,
@@ -16859,8 +16860,8 @@
       "name": "Dutton-Goldfield Winery",
       "region": "Sonoma County",
       "address": "3100 Gravenstein Highway North, Sebastopol, CA 95472",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4066,
+      "longitude": -122.8379,
       "phone": "(707) 823-3887",
       "website": "https://duttongoldfield.com",
       "heroImageURL": null,
@@ -16919,8 +16920,8 @@
       "name": "MacRostie Winery Estate House",
       "region": "Sonoma County",
       "address": "4605 Westside Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6061,
+      "longitude": -122.8772,
       "phone": "(707) 473-9303",
       "website": "https://macrostiewinery.com",
       "heroImageURL": null,
@@ -16933,7 +16934,7 @@
         "dogFriendly",
         "liveMusic"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -16977,7 +16978,7 @@
         "Dogs welcome in outdoor areas only and must remain on leash. Service animals permitted throughout."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -16985,8 +16986,8 @@
       "name": "Flowers Vineyards & Winery",
       "region": "Sonoma County",
       "address": "4035 Westside Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6061,
+      "longitude": -122.8772,
       "phone": "(707) 723-4800",
       "website": "https://www.flowerswinery.com",
       "heroImageURL": null,
@@ -16995,7 +16996,7 @@
       "attributes": [
         "foodOnsite"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17047,8 +17048,8 @@
       "name": "Quivira Vineyards & Winery",
       "region": "Sonoma County",
       "address": "4900 West Dry Creek Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6107,
+      "longitude": -122.8701,
       "phone": "(707) 431-8333",
       "website": "https://quivirawine.com",
       "heroImageURL": null,
@@ -17059,7 +17060,7 @@
         "foodOnsite",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17103,7 +17104,7 @@
         "Dogs welcome inside tasting room or at patio tables as long as leashed"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17111,8 +17112,8 @@
       "name": "Preston Farm and Winery",
       "region": "Sonoma County",
       "address": "9282 West Dry Creek Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.703,
+      "longitude": -122.9676,
       "phone": "(707) 433-3372",
       "website": "https://www.prestonfarmandwinery.com",
       "heroImageURL": null,
@@ -17173,8 +17174,8 @@
       "name": "Mauritson Wines",
       "region": "Sonoma County",
       "address": "2859 Dry Creek Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6263,
+      "longitude": -122.876,
       "phone": "(707) 431-0804",
       "website": "https://mauritsonwines.com",
       "heroImageURL": null,
@@ -17229,7 +17230,7 @@
         "Dogs are welcomed and can accompany guests in the relaxed picnic area"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17237,8 +17238,8 @@
       "name": "Bella Vineyards and Wine Caves",
       "region": "Sonoma County",
       "address": "9711 West Dry Creek Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6107,
+      "longitude": -122.8701,
       "phone": "(707) 473-9171",
       "website": "https://www.bellawinery.com",
       "heroImageURL": null,
@@ -17292,7 +17293,7 @@
         "Pets allowed if on leash at all times"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17300,8 +17301,8 @@
       "name": "Ridge Vineyards - Lytton Springs",
       "region": "Sonoma County",
       "address": "650 Lytton Springs Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6597,
+      "longitude": -122.8854,
       "phone": "(707) 433-7721",
       "website": "https://www.ridgewine.com",
       "heroImageURL": null,
@@ -17311,7 +17312,7 @@
         "foodOnsite",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17355,7 +17356,7 @@
         "Leashed dogs welcome. Excessive barking or aggressive behavior not allowed."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17363,8 +17364,8 @@
       "name": "Unti Vineyards",
       "region": "Sonoma County",
       "address": "4202 Dry Creek Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6263,
+      "longitude": -122.876,
       "phone": "(707) 433-5590",
       "website": "https://www.untivineyards.com",
       "heroImageURL": null,
@@ -17423,8 +17424,8 @@
       "name": "Alexander Valley Vineyards",
       "region": "Sonoma County",
       "address": "8644 Highway 128, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6107,
+      "longitude": -122.8701,
       "phone": "(707) 433-7209",
       "website": "https://www.avvwine.com",
       "heroImageURL": null,
@@ -17434,7 +17435,7 @@
         "familyFriendly",
         "foodOnsite"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17486,8 +17487,8 @@
       "name": "Silver Oak Alexander Valley",
       "region": "Sonoma County",
       "address": "7300 Highway 128, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6107,
+      "longitude": -122.8701,
       "phone": "(707) 942-7082",
       "website": "https://silveroak.com",
       "heroImageURL": null,
@@ -17548,8 +17549,8 @@
       "name": "Trione Vineyards & Winery",
       "region": "Sonoma County",
       "address": "19550 Geyserville Avenue, Geyserville, CA 95441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6872,
+      "longitude": -122.8809,
       "phone": "(707) 814-8100",
       "website": "https://trionewinery.com",
       "heroImageURL": null,
@@ -17560,7 +17561,7 @@
         "foodOnsite",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17604,7 +17605,7 @@
         "Dog-friendly winery"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17612,8 +17613,8 @@
       "name": "Medlock Ames",
       "region": "Sonoma County",
       "address": "3487 Alexander Valley Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6665,
+      "longitude": -122.8201,
       "phone": "(707) 431-8845",
       "website": "https://www.medlockames.com",
       "heroImageURL": null,
@@ -17622,7 +17623,7 @@
       "attributes": [
         "greatView"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17674,8 +17675,8 @@
       "name": "Hawkes Wine",
       "region": "Sonoma County",
       "address": "6734 Highway 128, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.6107,
+      "longitude": -122.8701,
       "phone": "(707) 433-4295",
       "website": "https://www.hawkeswine.com",
       "heroImageURL": null,
@@ -17685,7 +17686,7 @@
         "foodOnsite",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17729,7 +17730,7 @@
         "Winery dog on premises; patio appears dog-friendly"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17737,8 +17738,8 @@
       "name": "Imagery Estate Winery",
       "region": "Sonoma County",
       "address": "14335 Highway 12, Glen Ellen, CA 95442",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.3535,
+      "longitude": -122.5011,
       "phone": "(707) 935-3000",
       "website": "https://imagerywinery.com",
       "heroImageURL": null,
@@ -17749,7 +17750,7 @@
         "dogFriendly",
         "liveMusic"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17793,7 +17794,7 @@
         "Leashed dogs welcome in the Tasting Room"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17801,8 +17802,8 @@
       "name": "Cline Family Cellars",
       "region": "Sonoma County",
       "address": "24737 Arnold Drive, Highway 121, Sonoma, CA 95476",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.2995,
+      "longitude": -122.4751,
       "phone": "(707) 940-4044",
       "website": "https://clinecellars.com",
       "heroImageURL": null,
@@ -17813,7 +17814,7 @@
         "familyFriendly",
         "foodOnsite"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -17865,8 +17866,8 @@
       "name": "Tablas Creek Vineyard",
       "region": "Paso Robles",
       "address": "9339 Adelaida Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6364,
+      "longitude": -120.8597,
       "phone": "(805) 237-1231",
       "website": "https://tablascreek.com",
       "heroImageURL": null,
@@ -17917,7 +17918,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -17925,8 +17926,8 @@
       "name": "Eberle Winery",
       "region": "Paso Robles",
       "address": "3810 Highway 46 East, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6498,
+      "longitude": -120.6281,
       "phone": "(805) 238-9607",
       "website": "https://www.eberlewinery.com",
       "heroImageURL": null,
@@ -17986,8 +17987,8 @@
       "name": "DAOU Vineyards",
       "region": "Paso Robles",
       "address": "2777 Hidden Mountain Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6415,
+      "longitude": -120.7844,
       "phone": "(805) 226-5460",
       "website": "https://daouvineyards.com",
       "heroImageURL": null,
@@ -18040,7 +18041,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18048,8 +18049,8 @@
       "name": "JUSTIN Vineyards & Winery",
       "region": "Paso Robles",
       "address": "11680 Chimney Rock Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6263,
+      "longitude": -120.6901,
       "phone": "(805) 591-3224",
       "website": "https://www.justinwine.com",
       "heroImageURL": null,
@@ -18101,7 +18102,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18109,8 +18110,8 @@
       "name": "Tobin James Cellars",
       "region": "Paso Robles",
       "address": "8950 Union Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6327,
+      "longitude": -120.6749,
       "phone": "(805) 239-2204",
       "website": "https://www.tobinjames.com",
       "heroImageURL": null,
@@ -18161,7 +18162,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18169,8 +18170,8 @@
       "name": "Adelaida Vineyards & Winery",
       "region": "Paso Robles",
       "address": "5805 Adelaida Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6452,
+      "longitude": -120.8025,
       "phone": "(805) 239-8980",
       "website": "https://www.adelaida.com",
       "heroImageURL": null,
@@ -18223,7 +18224,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18231,8 +18232,8 @@
       "name": "Hope Family Wines (Austin Hope Tasting Cellar)",
       "region": "Paso Robles",
       "address": "1585 Live Oak Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.5879,
+      "longitude": -120.7211,
       "phone": "(805) 238-4112",
       "website": "https://hopefamilywines.com",
       "heroImageURL": null,
@@ -18283,7 +18284,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18291,8 +18292,8 @@
       "name": "Calcareous Vineyard",
       "region": "Paso Robles",
       "address": "3430 Peachy Canyon Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6218,
+      "longitude": -120.711,
       "phone": "(805) 239-0289",
       "website": "https://www.calcareous.com",
       "heroImageURL": null,
@@ -18345,7 +18346,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18353,8 +18354,8 @@
       "name": "Ancient Peaks Winery",
       "region": "Paso Robles",
       "address": "22720 El Camino Real, Santa Margarita, CA, 93453",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.3891,
+      "longitude": -120.613,
       "phone": "(805) 365-7045",
       "website": "https://ancientpeaks.com",
       "heroImageURL": null,
@@ -18406,7 +18407,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18414,8 +18415,8 @@
       "name": "Halter Ranch",
       "region": "Paso Robles",
       "address": "8910 Adelaida Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6263,
+      "longitude": -120.6901,
       "phone": "(805) 226-9455",
       "website": "https://www.halterranch.com",
       "heroImageURL": null,
@@ -18468,7 +18469,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18476,8 +18477,8 @@
       "name": "Peachy Canyon Winery",
       "region": "Paso Robles",
       "address": "1480 North Bethel Road, Templeton, CA, 93465",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.5799,
+      "longitude": -120.7189,
       "phone": "(805) 239-1918",
       "website": "https://www.peachycanyon.com",
       "heroImageURL": null,
@@ -18530,7 +18531,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18538,8 +18539,8 @@
       "name": "Cass Winery",
       "region": "Paso Robles",
       "address": "7350 Linne Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6132,
+      "longitude": -120.6466,
       "phone": "(805) 239-1730",
       "website": "https://www.casswines.com",
       "heroImageURL": null,
@@ -18591,7 +18592,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18599,8 +18600,8 @@
       "name": "Vina Robles",
       "region": "Paso Robles",
       "address": "1650 Ramada Drive, Suite 140, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.5926,
+      "longitude": -120.6936,
       "phone": "(805) 721-4553",
       "website": "https://vinarobles.com",
       "heroImageURL": null,
@@ -18652,7 +18653,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18660,8 +18661,8 @@
       "name": "Sculpterra Winery & Sculpture Garden",
       "region": "Paso Robles",
       "address": "5015 Linne Road, Paso Robles, CA, 93446",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.6006,
+      "longitude": -120.6107,
       "phone": "(805) 226-8881",
       "website": "https://sculpterra.com",
       "heroImageURL": null,
@@ -18714,7 +18715,7 @@
       "claimed": false,
       "policyNotes": [],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18722,8 +18723,8 @@
       "name": "Turley Wine Cellars",
       "region": "Paso Robles",
       "address": "2900 Vineyard Drive, Templeton, CA, 93465",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 35.544,
+      "longitude": -120.7125,
       "phone": "(805) 434-1030",
       "website": "https://www.turleywinecellars.com",
       "heroImageURL": null,
@@ -18783,8 +18784,8 @@
       "name": "Fess Parker Winery",
       "region": "Santa Barbara",
       "address": "6200 Foxen Canyon Road, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6978,
+      "longitude": -120.1268,
       "phone": "(805) 688-1545",
       "website": "https://www.fessparker.com/",
       "heroImageURL": null,
@@ -18840,7 +18841,7 @@
         "Outside food permitted in Parker Family Oak Grove with wine purchase"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18848,8 +18849,8 @@
       "name": "Hitching Post Wines",
       "region": "Santa Barbara",
       "address": "420 East Highway 246, Buellton, CA 93427",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6083,
+      "longitude": -120.1809,
       "phone": "(805) 697-7489",
       "website": "http://www.hitchingpostwines.com/",
       "heroImageURL": null,
@@ -18906,7 +18907,7 @@
         "Reservations required for groups of 8 or more. Lunch is first-come basis."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -18914,8 +18915,8 @@
       "name": "Sanford Winery & Vineyards",
       "region": "Santa Barbara",
       "address": "5010 Santa Rosa Road, Lompoc, CA 93436",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6093,
+      "longitude": -120.3295,
       "phone": "(805) 735-5900",
       "website": "https://www.sanfordwinery.com/",
       "heroImageURL": null,
@@ -18976,8 +18977,8 @@
       "name": "Firestone Vineyard",
       "region": "Santa Barbara",
       "address": "5017 Zaca Station Road, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.7125,
+      "longitude": -120.1437,
       "phone": "(805) 688-3940",
       "website": "https://www.firestonewine.com/",
       "heroImageURL": null,
@@ -19040,8 +19041,8 @@
       "name": "Beckmen Vineyards",
       "region": "Santa Barbara",
       "address": "2670 Ontiveros Road, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6466,
+      "longitude": -120.1098,
       "phone": "(805) 688-8664",
       "website": "https://beckmenvineyards.com/",
       "heroImageURL": null,
@@ -19106,8 +19107,8 @@
       "name": "Rusack Vineyards",
       "region": "Santa Barbara",
       "address": "1819 Ballard Canyon Road, Solvang, CA 93463",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6378,
+      "longitude": -120.1417,
       "phone": "(805) 688-1278",
       "website": "https://www.rusack.com/",
       "heroImageURL": null,
@@ -19163,7 +19164,7 @@
         "Appointment-only tastings. Use contact form to request appointment."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19171,8 +19172,8 @@
       "name": "Sunstone Winery",
       "region": "Santa Barbara",
       "address": "125 N Refugio Road, Santa Ynez, CA 93460",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.5887,
+      "longitude": -120.0997,
       "phone": "(805) 688-9463",
       "website": "https://sunstonewinery.com/",
       "heroImageURL": null,
@@ -19229,7 +19230,7 @@
         "Reservations highly recommended on weekends. Groups of 8+ must make Private Tasting Reservation."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19237,8 +19238,8 @@
       "name": "Zaca Mesa Winery",
       "region": "Santa Barbara",
       "address": "6905 Foxen Canyon Road, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.7721,
+      "longitude": -120.1333,
       "phone": "(805) 688-9339",
       "website": "https://www.zacamesa.com/",
       "heroImageURL": null,
@@ -19294,7 +19295,7 @@
         "Reservations recommended but not required. Highly recommended for Lounge & Terrace due to limited seating."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19302,8 +19303,8 @@
       "name": "Buttonwood Farm Winery & Vineyard",
       "region": "Santa Barbara",
       "address": "1500 Alamo Pintado Road, Solvang, CA 93463",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6136,
+      "longitude": -120.1219,
       "phone": "(805) 688-3032",
       "website": "https://www.buttonwoodwinery.com/",
       "heroImageURL": null,
@@ -19367,8 +19368,8 @@
       "name": "Kalyra Winery",
       "region": "Santa Barbara",
       "address": "140 Industrial Way Unit C1, Buellton, CA 93427",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.5938,
+      "longitude": -120.1001,
       "phone": "(805) 693-8864",
       "website": "https://kalyrawinery.com/",
       "heroImageURL": null,
@@ -19424,7 +19425,7 @@
         "Walk-ins welcome. Groups of 6+ require reservation with credit card pre-payment."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19432,8 +19433,8 @@
       "name": "Carhartt Family Wines",
       "region": "Santa Barbara",
       "address": "2939 Grand Avenue, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6661,
+      "longitude": -120.1151,
       "phone": "(805) 693-5100",
       "website": "https://www.carharttfamilywines.com/",
       "heroImageURL": null,
@@ -19497,8 +19498,8 @@
       "name": "Lincourt Vineyards",
       "region": "Santa Barbara",
       "address": "1711 Alamo Pintado Road, Solvang, CA 93463",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6136,
+      "longitude": -120.1219,
       "phone": "(805) 688-8554",
       "website": "https://www.lincourtwines.com/",
       "heroImageURL": null,
@@ -19553,7 +19554,7 @@
         "Walk-ins welcome as space allows. Last reservation at 3:30 PM. 90-minute tasting experience. Max party size 6."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19561,8 +19562,8 @@
       "name": "Demetria Estate",
       "region": "Santa Barbara",
       "address": "6701 Foxen Canyon Road, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6978,
+      "longitude": -120.1268,
       "phone": "(805) 686-2345",
       "website": "https://www.demetriaestate.com/",
       "heroImageURL": null,
@@ -19618,7 +19619,7 @@
         "Reservations encouraged. Walk-ins welcome if space permits. Priority given to Wine Society and mailing list members. Groups larger than 8 email inquiries@demetriaestate.com."
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19626,8 +19627,8 @@
       "name": "Stolpman Vineyards",
       "region": "Santa Barbara",
       "address": "2434 Alamo Pintado Avenue, Los Olivos, CA 93441",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6653,
+      "longitude": -120.1142,
       "phone": "(805) 688-0400",
       "website": "https://www.stolpmanvineyards.com/",
       "heroImageURL": null,
@@ -19688,8 +19689,8 @@
       "name": "Bridlewood Estate Winery",
       "region": "Santa Barbara",
       "address": "3555 Roblar Avenue, Santa Ynez, CA 93460",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 34.6129,
+      "longitude": -120.0817,
       "phone": "(805) 688-9000",
       "website": "https://www.bridlewoodwinery.com/",
       "heroImageURL": null,
@@ -19746,7 +19747,7 @@
         "Reservations required for parties over six"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -19754,8 +19755,8 @@
       "name": "Ferrari-Carano Vineyards",
       "region": "Napa Valley",
       "address": "8761 Dry Creek Road, Healdsburg, CA 95448",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.7131,
+      "longitude": -122.9801,
       "phone": "(707) 433-6700",
       "website": "https://ferrari-carano.com",
       "heroImageURL": null,
@@ -19765,7 +19766,7 @@
         "foodOnsite",
         "familyFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -19818,8 +19819,8 @@
       "name": "Saintsbury",
       "region": "Napa Valley",
       "address": "1500 Los Carneros Avenue, Napa, CA 94559",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.25,
+      "longitude": -122.3276,
       "phone": "(707) 252-0592",
       "website": "https://saintsbury.com",
       "heroImageURL": null,
@@ -19828,7 +19829,7 @@
       "attributes": [
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -19873,7 +19874,7 @@
         "Recommended"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "recommended"
     },
     {
@@ -19881,8 +19882,8 @@
       "name": "Duckhorn Vineyards",
       "region": "Napa Valley",
       "address": "1000 Lodi Lane, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5052,
+      "longitude": -122.47,
       "phone": "(707) 963-7108",
       "website": "https://duckhorn.com",
       "heroImageURL": null,
@@ -19892,7 +19893,7 @@
         "foodOnsite",
         "familyFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -19945,15 +19946,15 @@
       "name": "Chateau Montelena",
       "region": "Napa Valley",
       "address": "1429 Tubbs Lane, Calistoga, CA 94515",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5788,
+      "longitude": -122.5797,
       "phone": "(707) 942-5105",
       "website": "https://montelena.com",
       "heroImageURL": null,
       "vibeDescriptor": "",
       "editorial": "",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -20006,8 +20007,8 @@
       "name": "Pine Ridge Vineyards",
       "region": "Napa Valley",
       "address": "5901 Silverado Trail, Napa, CA 94558",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4086,
+      "longitude": -122.3322,
       "phone": "(707) 252-9777",
       "website": "https://pineridgevineyards.com",
       "heroImageURL": null,
@@ -20017,7 +20018,7 @@
         "foodOnsite",
         "dogFriendly"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -20062,7 +20063,7 @@
         "Required"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -20070,8 +20071,8 @@
       "name": "Freemark Abbey Winery",
       "region": "Napa Valley",
       "address": "3022 St. Helena Highway North, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.503,
+      "longitude": -122.4665,
       "phone": "(707) 963-9694",
       "website": "https://freemarkabbey.com",
       "heroImageURL": null,
@@ -20080,7 +20081,7 @@
       "attributes": [
         "foodOnsite"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -20133,15 +20134,15 @@
       "name": "Corison Winery",
       "region": "Napa Valley",
       "address": "987 St. Helena Highway, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.4849,
+      "longitude": -122.4474,
       "phone": "(707) 963-0826",
       "website": "https://corison.com",
       "heroImageURL": null,
       "vibeDescriptor": "",
       "editorial": "",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -20194,8 +20195,8 @@
       "name": "Smith-Madrone Vineyards",
       "region": "Napa Valley",
       "address": "4022 Spring Mountain Road, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5062,
+      "longitude": -122.4794,
       "phone": "(707) 963-2283",
       "website": "https://smithmadrone.com",
       "heroImageURL": null,
@@ -20206,7 +20207,7 @@
         "familyFriendly",
         "greatView"
       ],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -20251,7 +20252,7 @@
         "Required"
       ],
       "lastVerified": "2026-07-30",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "required"
     },
     {
@@ -20259,15 +20260,15 @@
       "name": "Spottswoode Estate Vineyard & Winery",
       "region": "Napa Valley",
       "address": "1902 Madrona Avenue, St. Helena, CA 94574",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 38.5003,
+      "longitude": -122.4782,
       "phone": "(707) 963-0134",
       "website": "https://spottswoode.com",
       "heroImageURL": null,
       "vibeDescriptor": "",
       "editorial": "",
       "attributes": [],
-      "priceTier": "$$$$",
+      "priceTier": "$$$",
       "byAppointmentOnly": false,
       "hours": [
         {
@@ -20380,9 +20381,9 @@
         "Leashed dogs welcome"
       ],
       "lastVerified": "2026-08-05",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired",
-      "familyPolicy": "allAges"
+      "familyPolicy": "familyFriendly"
     },
     {
       "id": "threecreeks",
@@ -20447,7 +20448,7 @@
         "Friday Night Sips until 7pm"
       ],
       "lastVerified": "2026-08-05",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired",
       "familyPolicy": "adultsOnly"
     },
@@ -20513,7 +20514,7 @@
         "Picnic-friendly with blankets welcome on grounds"
       ],
       "lastVerified": "2026-08-05",
-      "dogPolicy": "outsideOnly",
+      "dogPolicy": "designatedAreaOnly",
       "reservationPolicy": "notRequired"
     }
   ]
